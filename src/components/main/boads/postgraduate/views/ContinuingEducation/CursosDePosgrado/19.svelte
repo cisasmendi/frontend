@@ -24,7 +24,7 @@
   ];
 
   let analyticalContents = [
-    "Aspectos sociológicos y psicológicos del personal de la administración fiscal,Factores de riesgos del control de cumplimiento de los tributos, Los límites de las administraciones fiscales, El marketing de los entes fiscales, Consideraciones generales de diseño de la administración tributaria, Recursos humanos, El control de gestión"
+    "Aspectos sociológicos y psicológicos del personal de la administración fiscal, factores de riesgos del control de cumplimiento de los tributos, los límites de las administraciones fiscales, el marketing de los entes fiscales, consideraciones generales de diseño de la administración tributaria, recursos humanos, el control de gestión"
   ];
 
   let schedule = {

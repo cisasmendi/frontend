@@ -150,6 +150,13 @@
             courseTitle: "AUDITORÍA DE ESTADOS CONTABLES",
             title: "Cursos de Posgrado",
         },
+        {
+            id: "auditoria-control-fiscal",
+            modulo: 19,
+            courseTitle: "AUDITORÍA Y CONTROL FISCAL",
+            title: "Cursos de Posgrado",
+        },
+
     ];
 
     onMount(() => {
