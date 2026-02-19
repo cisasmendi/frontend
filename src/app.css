@@ -1,0 +1,98 @@
+@import "tailwindcss";
+
+body {
+  font-family: 'Montserrat', sans-serif; /* Para el texto principal */
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Merriweather', serif; /* Para los encabezados */
+}
+
+p {
+  
+  font-size: 1.125rem; /* 18px */
+  line-height: 1.75; /* 28px */
+}
+
+
+
+ /* Animación de entrada para el título */
+ @keyframes fadeInDown {
+  0% {
+    opacity: 0;
+    transform: translateY(-20px); /* Aparece desde arriba */
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in-down {
+  animation: fadeInDown 1s ease-out forwards;
+}
+
+/* Animación de entrada desde la izquierda */
+@keyframes slideInLeft {
+  0% {
+    opacity: 0;
+    transform: translateX(-100%); /* Desde fuera de la pantalla a la izquierda */
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+.animate-slide-in-left {
+  animation: slideInLeft 1s ease-out forwards;
+}
+
+/* Animación de entrada desde la derecha */
+@keyframes slideInRight {
+  0% {
+    opacity: 0;
+    transform: translateX(100%); /* Desde fuera de la pantalla a la derecha */
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+.animate-slide-in-right {
+  animation: slideInRight 1s ease-out forwards;
+}
+
+
+/* Animación de entrada desde abajo */
+@keyframes slideInUp {
+  0% {
+    opacity: 0;
+    transform: translateY(100%); /* Desde fuera de la pantalla abajo */
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-slide-in-up {
+  animation: slideInUp 1s ease-out forwards;
+}
+
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+th,
+td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+th {
+  background-color: #f2f2f2;
+}
+

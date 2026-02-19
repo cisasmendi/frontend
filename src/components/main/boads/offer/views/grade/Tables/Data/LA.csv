@@ -1,0 +1,37 @@
+Año,Código,Asignatura,Horas_Sem,Horas_Tot,Correlatividades,Cuatrimestre,URL
+PRIMER AÑO,236,Teoría Contable,7,98,---,1C,/assets/pdf/carreras/Programas/236.pdf
+PRIMER AÑO,202,Derecho Público,4,56,---,1C,/assets/pdf/carreras/Programas/102-202.pdf
+PRIMER AÑO,203,Matemática I,6,84,---,1C,/assets/pdf/carreras/Programas/103-203.pdf
+PRIMER AÑO,204,Derecho Civil,4,56,202,2C,/assets/pdf/carreras/Programas/104-204.pdf
+PRIMER AÑO,205,Matemática II,6,84,203,2C,/assets/pdf/carreras/Programas/105-205.pdf
+PRIMER AÑO,237,Contabilidad para Administradores,7,98,236,2C,/assets/pdf/carreras/Programas/237.pdf
+SEGUNDO AÑO,206,Administración Básica,4,56,236,1C,/assets/pdf/carreras/Programas/106-206.pdf
+SEGUNDO AÑO,208,Derecho Comercial,6,84,204,1C,/assets/pdf/carreras/Programas/108-208.pdf
+SEGUNDO AÑO,209,Matemática III,5,70,205,1C,/assets/pdf/carreras/Programas/109-209.pdf
+SEGUNDO AÑO,211,Microeconomía,7,98,205,2C,/assets/pdf/carreras/Programas/111-211.pdf
+SEGUNDO AÑO,238,Introducción a la investigación social,4,56,206,2C,/assets/pdf/carreras/Programas/138-238.pdf
+SEGUNDO AÑO,212,Organización Contable y Administrativa,6,84,206,2C,/assets/pdf/carreras/Programas/112-212.pdf
+SEGUNDO AÑO,239,Comportamiento Organizacional,6,84,206,2C,/assets/pdf/carreras/Programas/239.pdf
+TERCER AÑO,213,Macroeconomía y Política Económica,7,98,211-205,1C,/assets/pdf/carreras/Programas/113-213.pdf
+TERCER AÑO,214,Sociedades Comerciales,6,84,208,1C,/assets/pdf/carreras/Programas/114-214.pdf
+TERCER AÑO,215,Estadística,6,84,209-205,1C,/assets/pdf/carreras/Programas/115-215.pdf
+TERCER AÑO,216,Tecnología de la Información,6,84,212-206,1C,/assets/pdf/carreras/Programas/116-216.pdf
+TERCER AÑO,218,Doctrinas Sociales y Económicas,5,70,213,2C,/assets/pdf/carreras/Programas/118-218.pdf
+TERCER AÑO,220,Cálculo Financiero,5,70,215-209,2C,/assets/pdf/carreras/Programas/120-220.pdf
+TERCER AÑO,240,Administración de Personal,6,84,239,2C,/assets/pdf/carreras/Programas/140-240.pdf
+CUARTO AÑO,221,Gestión y Costos,6,84,237,1C,/assets/pdf/carreras/Programas/121-221.pdf
+CUARTO AÑO,222,Finanzas Públicas,4,56,218,1C,/assets/pdf/carreras/Programas/122-222.pdf
+CUARTO AÑO,241,Técnicas Cuantitativas para Administradores,6,84,220,1C,/assets/pdf/carreras/Programas/241.pdf
+CUARTO AÑO,243,Administración de la Comercialización,6,84,240,1C,/assets/pdf/carreras/Programas/243.pdf
+CUARTO AÑO,245,Teoría de la Decisión,6,84,241,2C,/assets/pdf/carreras/Programas/245.pdf
+CUARTO AÑO,242,Investigación Operativa,5,70,241,2C,/assets/pdf/carreras/Programas/242.pdf
+CUARTO AÑO,227,Administración y Contabilidad Pública,6,84,222-218,2C,/assets/pdf/carreras/Programas/127-227.pdf
+CUARTO AÑO,244,Régimen Tributario,5,70,222-218,2C,/assets/pdf/carreras/Programas/244.pdf
+QUINTO AÑO,230,Administración Financiera,6,84,243-220,1C,/assets/pdf/carreras/Programas/130-230.pdf
+QUINTO AÑO,247,Políticas Públicas,6,84,227,2C,/assets/pdf/carreras/Programas/247.pdf
+QUINTO AÑO,246,Administración de Operaciones,6,84,243,1C,/assets/pdf/carreras/Programas/246.pdf
+QUINTO AÑO,248,Planeamiento a Largo Plazo,5,70,245,2C,/assets/pdf/carreras/Programas/248-2024.pdf
+QUINTO AÑO,249,Dirección General,6,84,245,2C,/assets/pdf/carreras/Programas/249.pdf
+QUINTO AÑO,250,Ejercicio Profesional para Administradores,6,84,230-245,2C,/assets/pdf/carreras/Programas/250.pdf
+
+AHORA EL CSV DE con los campos asi Año,Código,Asignatura,Horas_Sem,Horas_Tot,Correlatividades,Cuatrimestre,URL

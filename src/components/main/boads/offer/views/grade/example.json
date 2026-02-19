@@ -1,0 +1,48 @@
+{
+    "title": "Licenciatura en Administración 2022",
+    "modality": "Presencial",
+    "duration": "5 Años",
+    "finalTitle": "Licenciado en Administración",
+    "resolution": "647-2023",
+    "objectives": {
+        "general": [
+            "Garantizar una sólida preparación general en el campo de desempeño de la profesión y en la generación de conocimientos para el Estado, la Sociedad y la Economía.",
+            "Favorecer la apropiación crítica de los componentes básicos de la cultura y la posibilidad, por lo tanto, de la participación activa, responsable y solidaria en la comunidad en general y en la vida política, académica y laboral en particular.",
+            "Facilitar la circulación en los distintos campos profesionales y la movilidad en los cambiantes mercados de trabajo, indispensables en contextos de innovación e incertidumbre.",
+            "Intervenir en la definición de las misiones y propósitos de las organizaciones para incorporar valores éticos y morales, y cumplir con las responsabilidades sociales frente a la comunidad.",
+            "Promover una adecuada articulación e integración entre la formación del Ciclo de Formación General Básica y Ciclo de Formación Específica o Profesional, aplicando el criterio secuencial que establece los conocimientos fundamentales indispensables para los aprendizajes posteriores.",
+            "Promover en los alumnos la formación científica como una estrategia fundamental que contribuye a resolver problemas y necesidades de la sociedad y la integración al contexto mundial.",
+            "Formar un profesional comprometido con los conceptos de la Economía Social que entienda a la economía como inseparable de la cultura, como espacio de acción constituido no por individuos utilitaristas buscando ventajas materiales, sino por individuos, familias, comunidades y colectivos de diverso tipo que se mueven dentro de instituciones decantadas por la práctica o acordadas como arreglos voluntarios, que actúan haciendo transacciones entre la utilidad material y valores de solidaridad y cooperación, limitando (no necesariamente anulando) la competencia."
+        ],
+        "specific": [
+            "Formar profesionales con las competencias necesarias para su desempeño como profesional autónomo o para su inserción en las organizaciones cualquiera sea su forma jurídica, persigan o no fines de lucro, y en el contexto en que dichas organizaciones se desenvuelven.",
+            "Formar profesionales sólidos, con base en habilidades de organización, planificación, dirección y control, complementando esta formación básica con la incorporación de conocimientos contables, impositivos, jurídicos, humanísticos, económicos y matemáticos.",
+            "Formar profesionales críticos y comprometidos, favoreciendo su inserción activa en el medio social y la participación responsable y solidaria en la vida pública, laboral y académica.",
+            "Asegurar una capacitación general que les permita a los egresados transitar libremente por diferentes áreas de especialización e integrarse en los mercados laborales locales, regionales y nacionales, en igualdad de condiciones, con egresados de otras carreras o universidades.",
+            "Fomentar el desarrollo de aptitudes y vocación para el aprendizaje de manera continua, que permita la adaptación del egresado a tareas diferentes y al perfeccionamiento, a medida que evolucionan las formas de producción y de organización económica."
+        ]
+    },
+    "scope": "El alcance de la carrera puede interpretarse en base a lo explicitado por la Ley Nacional 20.488, que en su artículo 14 enumera las competencias profesionales de los licenciados en administración. [... rest of the scope text ...]",
+    "graduateProfile":
+        "El Licenciado en Administración es un profesional con visión integradora y sentido ético, que, mediante el ejercicio del liderazgo transformacional y espíritu empresarial, conduce a las organizaciones al éxito en la consecución de sus metas. [... rest of the graduate profile text ...]",
+    "requirements": [
+        "Constancia/Formulario de preinscripción emitido por el sistema SIU-GUARANI (en caso de cambiar algún dato debes enviar el ultimo formulario de preinscripción).",
+        "DNI o pasaporte (anverso y reverso).",
+        "Título del nivel secundario. En el caso de aspirantes a ingresar que hayan egresado del secundario en el año 2023, deberán presentar constancia de título en trámite (sin adeudar materias).",
+        "En caso de adeudar, como máximo hasta 2 materias, deberás presentar certificación que acredite tal situación.",
+        "Una foto tipo carnet.",
+        "Partida de Nacimiento legalizada.",
+        "Constancia de CUIL."
+    ],  
+    "contact": {
+        "email": "unidad.alumnos@eco.unca.edu.ar",
+        "wp": "543836014652"
+    },
+    "downloads": [
+        {
+            "name": "Resolución Ministerial",
+            "url": "/assets/pdf/carreras/grado/resol-647-23-ladm2022.pdf"
+        }
+    ]
+   
+}

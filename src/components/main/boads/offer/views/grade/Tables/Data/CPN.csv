@@ -1,0 +1,41 @@
+Año,Código,Asignatura,Horas_Sem,Horas_Tot,Correlatividades,Cuatrimestre,URL
+"Primer Año",101,Contabilidad I,8,112,"Taller Nivelación",1C,/assets/pdf/carreras/Programas/101.pdf
+"Primer Año",102,Derecho Público,4,56,---,1C,/assets/pdf/carreras/Programas/102-202.pdf
+"Primer Año",103,Matemática I,6,84,"Taller Nivelación",1C,/assets/pdf/carreras/Programas/103-203.pdf
+"Primer Año",104,Derecho Civil,4,56,102,2C,/assets/pdf/carreras/Programas/104-204.pdf
+"Primer Año",105,Matemática II,6,84,103,2C,/assets/pdf/carreras/Programas/105-205.pdf
+"Primer Año",107,Contabilidad II,8,112,101,2C,/assets/pdf/carreras/Programas/107.pdf
+"Segundo Año",106,Administración Básica,4,56,101,1C,/assets/pdf/carreras/Programas/106-206.pdf
+"Segundo Año",108,Derecho Comercial,6,84,104,1C,/assets/pdf/carreras/Programas/108-208.pdf
+"Segundo Año",109,Matemática III,5,70,105,1C,/assets/pdf/carreras/Programas/109-209.pdf
+"Segundo Año",110,Contabilidad III,8,112,107,2C,/assets/pdf/carreras/Programas/110.pdf
+"Segundo Año",111,Microeconomía,7,98,105,2C,/assets/pdf/carreras/Programas/111-211.pdf
+"Segundo Año",112,Organización Contable y Administrativa,6,84,106,2C,/assets/pdf/carreras/Programas/112-212.pdf
+"Tercer Año",113,Macroeconomía y Política Económica,7,98,"111-105",1C,/assets/pdf/carreras/Programas/113-213.pdf
+"Tercer Año",114,Sociedades Comerciales,6,84,108,1C,/assets/pdf/carreras/Programas/114-214.pdf
+"Tercer Año",115,Estadística,6,84,109,1C,/assets/pdf/carreras/Programas/115-215.pdf
+"Tercer Año",116,Tecnología de la Información,6,84,"112-106",1C,/assets/pdf/carreras/Programas/116-216.pdf
+"Tercer Año",117,Contabilidad de Costos,6,84,110,2C,/assets/pdf/carreras/Programas/117.pdf
+"Tercer Año",118,Doctrinas Sociales y Económicas,5,70,113,2C,/assets/pdf/carreras/Programas/118-218.pdf
+"Tercer Año",119,Derecho Laboral y Previsional,5,70,108,2C,/assets/pdf/carreras/Programas/119.pdf
+"Tercer Año",120,Cálculo Financiero,5,70,"115-109",2C,/assets/pdf/carreras/Programas/120-220.pdf
+"Cuarto Año",121,Gestión y Costos,6,84,117,1C,/assets/pdf/carreras/Programas/121-221.pdf
+"Cuarto Año",122,Finanzas Públicas,4,56,118,1C,/assets/pdf/carreras/Programas/122-222.pdf
+"Cuarto Año",123,Métodos Cuantitativos,6,84,115,1C,/assets/pdf/carreras/Programas/123.pdf
+"Cuarto Año",124,Administración General y Estratégica,6,84,"116-106",1C,/assets/pdf/carreras/Programas/124.pdf
+"Cuarto Año",125,Contabilidad IV,7,98,"121-117",2C,/assets/pdf/carreras/Programas/125.pdf
+"Cuarto Año",126,Teoría y Técnica Impositiva I,7,98,"122-118",2C,/assets/pdf/carreras/Programas/126.pdf
+"Cuarto Año",127,Administración y Contabilidad Pública,6,84,"122-124-116-106",2C,/assets/pdf/carreras/Programas/127-227.pdf
+"Quinto Año",128,Auditoría,8,112,125,1C,/assets/pdf/carreras/Programas/128.pdf
+"Quinto Año",129,Teoría y Técnica Impositiva II,7,98,"126-118",1C,/assets/pdf/carreras/Programas/129.pdf
+"Quinto Año",130,Administración Financiera,6,84,"125-120-115-109",1C,/assets/pdf/carreras/Programas/130-230.pdf
+"Quinto Año",131,Economía Regional y Provincial,5,70,118,1C,/assets/pdf/carreras/Programas/131.pdf
+"Quinto Año",132,Teoría y Técnica Impositiva III,7,98,"129-118",2C,/assets/pdf/carreras/Programas/132.pdf
+"Quinto Año",133,Ejercicio Profesional para Contadores,6,84,"128-129-130-126-118",2C,/assets/pdf/carreras/Programas/133.pdf
+"Quinto Año",134,Legislación Concursal y Práctica Judicial,6,84,"119-108",2C,/assets/pdf/carreras/Programas/134.pdf
+"Quinto Año",,Optativa,5,70,"124-106",2C,
+"Nota","NOTA: La   correlatividad se aplicará de la siguiente manera: a) Para cursar una asignatura deberá tener regularizada la/s correlativa/s pertinente/s. b) Para rendir una asignatura deben tener aprobada la correlativa."
+"Optativas",135,Comercio Exterior,,,,,
+"Optativas",138,Introducción a la Investigación Social,,,,,/assets/pdf/carreras/Programas/138-238.pdf
+"Optativas",140,Administración de Personal,,,,,/assets/pdf/carreras/Programas/140-240.pdf
+"Optativas",148,Planeamiento a Largo Plazo,,,,,/assets/pdf/carreras/Programas/148-248.pdf

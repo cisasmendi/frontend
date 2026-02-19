@@ -1,0 +1,160 @@
+<table>
+    <tbody
+        ><tr>
+            <td><strong>COD</strong></td>
+            <td><strong>ASIGNATURAS</strong></td>
+            <td><strong>CORR</strong></td>
+            <td><strong>AÑO</strong></td>
+        </tr>
+        <tr>
+            <td>871</td>
+            <td
+                ><a
+                    href="/assets/pdf/carreras/pregrado/TUAP/introAdministracionPublica.pdf"
+                    target="_blank"
+                    class="a-oscuro">Introducción a la Administración Pública</a
+                ></td
+            >
+            <td>---</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>872</td>
+            <td
+                ><a
+                    href="/assets/pdf/carreras/pregrado/TUAP/derechoPublico-1.pdf"
+                    target="_blank"
+                    class="a-oscuro">Derecho Público I</a
+                ></td
+            >
+            <td>---</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>874</td>
+            <td
+                ><a
+                    href="/assets/pdf/carreras/pregrado/TUAP/comportamientoOrganizacional.pdf"
+                    target="_blank"
+                    class="a-oscuro">Comportamiento Organizacional</a
+                ></td
+            >
+            <td>871</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>873</td>
+            <td
+                ><a
+                    href="/assets/pdf/carreras/pregrado/TUAP/introFinanzasPublicas.pdf"
+                    target="_blank"
+                    class="a-oscuro">Introducción a las Finanzas Públicas</a
+                ></td
+            >
+            <td>---</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>875</td>
+            <td
+                ><a
+                    href="/assets/pdf/carreras/pregrado/TUAP/teoriaAdministrativa.pdf"
+                    target="_blank"
+                    class="a-oscuro">Teoría Administrativa</a
+                ></td
+            >
+            <td>871</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>877</td>
+            <td
+                ><a
+                    href="/assets/pdf/carreras/pregrado/TUAP/organizacionesPublicas.pdf"
+                    target="_blank"
+                    class="a-oscuro">Las Organizaciones Públicas</a
+                ></td
+            >
+            <td>874/875</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>876</td>
+            <td
+                ><a
+                    href="/assets/pdf/carreras/pregrado/TUAP/haciendaPublica-I.pdf"
+                    target="_blank"
+                    class="a-oscuro">Hacienda Pública I</a
+                ></td
+            >
+            <td>872/873</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>878</td>
+            <td
+                ><a
+                    href="/assets/pdf/carreras/pregrado/TUAP/derechoPublico-2.pdf"
+                    target="_blank"
+                    class="a-oscuro">Derecho Público II</a
+                ></td
+            >
+            <td>872</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>879</td>
+            <td
+                ><a
+                    href="/assets/pdf/carreras/pregrado/TUAP/teoriaContable.pdf"
+                    target="_blank"
+                    class="a-oscuro">Teoría Contable</a
+                ></td
+            >
+            <td>875</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>880</td>
+            <td
+                ><a
+                    href="/assets/pdf/carreras/pregrado/TUAP/haciendaPublica-II.pdf"
+                    target="_blank"
+                    class="a-oscuro">Hacienda Pública II</a
+                ></td
+            >
+            <td>876/878</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>881</td>
+            <td
+                ><a
+                    href="/assets/pdf/carreras/pregrado/TUAP/gerenciaPublica.pdf"
+                    target="_blank"
+                    class="a-oscuro">La Gerencia Pública</a
+                ></td
+            >
+            <td>877</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>882</td>
+            <td>Las Políticas Públicas</td>
+            <td>877</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>883</td>
+            <td>Taller de Métodos Cuantitativos e Informática</td>
+            <td>879</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>884</td>
+            <td>Seminario</td>
+            <td>*</td>
+            <td>2</td>
+        </tr>
+    </tbody>
+</table>

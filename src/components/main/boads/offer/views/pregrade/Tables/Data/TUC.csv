@@ -1,0 +1,22 @@
+Año,Código,Asignatura,Horas_Sem,Horas_Tot,Correlatividades,Cuatrimestre,URL
+PRIMER AÑO,601,Teoría Contable,4.0,56,---,1º CUATRIMESTRE,assets/pdf/carreras/Programas/TUC/Resol.-111. Teoria Contable - T.U.C. cod 601.pdf
+PRIMER AÑO,602,Derecho Civil,4.0,56,---,1º CUATRIMESTRE,assets/pdf/carreras/Programas/TUC/Resol CD-110.Derecho Civil cat. A- T.U.C.pdf
+PRIMER AÑO,603,Cálculo Diferencial,5.0,70,---,1º CUATRIMESTRE,assets/pdf/carreras/Programas/TUC/Resol. CD113.Calculo Diferencial- T.U.C - cod 603.pdf
+PRIMER AÑO,604,Derecho Público,4.0,56,602,2º CUATRIMESTRE,assets/pdf/carreras/Programas/TUC/Resol CD 114.Derecho Publico- cod 604.T.U.C.pdf
+PRIMER AÑO,605,Cálculo Integral,3.0,42,603,2º CUATRIMESTRE,assets/pdf/carreras/Programas/TUC/Resol. CD 112-Calculo Integral. T.U.C- cod.605.pdf
+PRIMER AÑO,606,Contabilidad Financiera – Registración,4.0,56,601,2º CUATRIMESTRE,assets/pdf/carreras/Programas/TUC/Resol-CD 115. Contabi- Financiera y Registracion- T.U.C. cod 606.pdf
+SEGUNDO AÑO,607,Contabilidad Financiera – Exposición,4.0,56,606,1º CUATRIMESTRE,assets/pdf/carreras/Programas/TUC/RCD 064-2025 TUC -COD.607 CONTABILIDAD FINANCIERA Y EXPOSICION.pdf
+SEGUNDO AÑO,608,Derecho Comercial,6.0,84,604,1º CUATRIMESTRE,assets/pdf/carreras/Programas/TUC/RCD 065-2025 TUC - COD.608 DERECHO COMERCIAL.pdf
+SEGUNDO AÑO,609,Álgebra Lineal,3.0,42,605,1º CUATRIMESTRE,assets/pdf/carreras/Programas/TUC/RCD 066-2025 TUC- COD 609 ALGEBRA LINEAL.pdf
+SEGUNDO AÑO,610,Contabilidad Financiera – Medición,6.0,84,607,2º CUATRIMESTRE,assets/pdf/carreras/Programas/TUC/RCD 067-2025 TUC - COD.610 CONTABILIDAD FINANCIERA MEDICION.pdf
+SEGUNDO AÑO,611,Microeconomía,6.0,84,-,2º CUATRIMESTRE,
+SEGUNDO AÑO,612,Administración Básica,5.0,70,602,2º CUATRIMESTRE,assets/pdf/carreras/Programas/TUC/Resol-CD 116.A.BA - T.U.C- cod 612..pdf
+SEGUNDO AÑO,613,Tecnología de la Información,6.0,84,605,2º CUATRIMESTRE,assets/pdf/carreras/Programas/TUC/RCD 068-2025 TUC -COD.613 TECNOLOGIA DE LA INFORMACION.pdf
+ACREDITACION DE CONOCIMIENTOS AL FINALIZAR EL CICLO BASICO,614,Inglés Técnico Básico,4.0,56,-,FINAL,assets/pdf/carreras/Programas/TUC/Resol- CD 108- Ingles Tec. Basico. cod-614- T.U.C.pdf
+TERCER AÑO,615,Sociedades Comerciales,6.0,84,608,1º CUATRIMESTRE,
+TERCER AÑO,616,Finanzas Públicas,4.0,56,611,1º CUATRIMESTRE,
+TERCER AÑO,617,Práctica Contable Básica,6.0,84,610-613,1º CUATRIMESTRE,
+TERCER AÑO,618,Gestión Contable del Sector Público,6.0,84,616-617,2º CUATRIMESTRE,
+TERCER AÑO,619,Herramientas Informáticas Aplicadas a las Ciencias Económicas,6.0,84,617,2º CUATRIMESTRE,
+TERCER AÑO,621,Trabajo Final,,40,-,2º CUATRIMESTRE,
+TERCER AÑO,620,Seminario Integrador,5.0,140,-,ANUAL

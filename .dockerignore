@@ -1,0 +1,8 @@
+dist
+node_modules
+package-lock.json
+.vscode
+.git
+API v1
+edicion imagenes
+image_example.jpg

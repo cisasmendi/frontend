@@ -1,0 +1,118 @@
+{
+  "periodo": "2024-2025",
+  "proyectos": {
+"Proyectos de Investigación y Desarrollo Interdisciplinarios (PIDI) tipo 1": [
+      {
+        "titulo": "Sinergia digital Universidad y Empresa: Forjando Profesionales 4.0 para el nuevo Mercado Laboral.",
+        "responsable": "Juri Rosana",
+        "contacto": "rosanajuri@eco.unca.edu.ar"
+      },
+      {
+        "titulo": "El Estado en la sociedad digital.",
+        "responsable": "Mura, Raúl",
+        "contacto": "raulmura@eco.unca.edu.ar"
+      },
+      {
+        "titulo": "La influencia de la Contabilidad Financiera, Social y ambiental y el uso de las nuevas tecnologías en la toma de decisiones de las empresas catamarqueñas.",
+        "responsable": "Ponzo Florimonte, Rafael Marcelo",
+        "contacto": "rafaelpf@eco.unca.edu.ar"
+      },
+      {
+        "titulo": "No hay sabor tal, como la sal: Radiografía demográfica de la explotación del litio en las montañas de Catamarca.",
+        "responsable": "Macías, Norma Gladys",
+        "contacto": "normamacias@eco.unca.edu.ar"
+      },
+      {
+        "titulo": "Inteligencia Artificial para el fortalecimiento de la Economía Social. Estudio comparado de poblaciones de Latinoamérica.",
+        "responsable": "Morales, Andrea Silvina",
+        "contacto": "andream@eco.unca.edu.ar"
+      }
+    ],
+    "Proyectos de Investigación y Desarrollo Interdisciplinarios (PIDI) tipo 3": [
+      {
+        "titulo": "Diseño de 'Red de Economía Circular' para empresas del sector textil y plástico radicadas en el Gran Catamarca",
+        "responsable": "Lascano, Ivanna Dayan",
+        "contacto": "ivannal@eco.unca.edu.ar"
+      },
+      {
+        "titulo": "Estrategias de aprendizaje de la matemática mediados por las TIC para la formación de la carrera de contador público y licenciatura en administración",
+        "responsable": "Leiva, Raúl Eduardo",
+        "contacto": "prleiva@eco.unca.edu.ar"
+      },
+      {
+        "titulo": "Indicadores de Administración Tributaria: construcción y análisis para la Provincia de Catamarca.",
+        "responsable": "Nieto, Natalia Elizabeth",
+        "contacto": "pnnieto@eco.unca.edu.ar"
+      },
+      {
+        "titulo": "Explotaciones de Yacimientos Mineros. Efectos Económicos, Sociales y Ambientales en la Población. El caso de la Provincia de Catamarca - Periodo 2020-2023.",
+        "responsable": "Rodríguez, Rosa Margarita",
+        "contacto": "rrodriguez@eco.unca.edu.ar"
+      }
+    ],
+    "Proyectos de Fortalecimiento de Ciencia y Tecnología (PFORCYT)": [
+      {
+        "titulo": "Fortalecimiento de Mujeres Emprendedoras Rurales",
+        "responsables": [
+          "Lazarte, Gustavo Alfredo",
+          "Morales, Andrea Silvina"
+        ],
+        "contactos": [
+          "fredylaz@ahoo.com.ar",
+          "andream@eco.unca.edu.ar"
+        ]
+      }
+    ],
+    "Proyectos de Investigación Científica Tecnológica Interdisciplinaria de Impacto Provincial y Regional (PICTI-IPR)": [
+      {
+        "titulo": "Potenciando el ecosistema emprendedor: Estrategias para el fortalecimiento de mujeres rurales de Latinoamérica para la producción sostenible y la soberanía alimentaria.",
+        "responsable": "Morales, Andrea Silvina",
+        "contacto": "andream@eco.unca.edu.ar"
+      },
+      {
+        "titulo": "Cooperativismo de Plataforma para la Producción sostenible y la soberanía alimentaria.",
+        "responsable": "Mura, Raúl",
+        "contacto": "raulmura@eco.unca.edu.ar"
+      }
+    ],
+    "Proyectos de Innovación y Transferencia con impacto en el territorio y el sector socio-productivo (PVUSySP)": [
+      {
+        "titulo": "Del talento digital a las capacidades emprendedoras: vinculación con escuelas secundarias de la provincia de Catamarca.",
+        "director": "Altamirano, Marcelo Luis",
+        "referentes": [
+          {
+            "nombre": "Andrea Morales",
+            "contacto": "andream@eco.unca.edu.ar"
+          },
+          {
+            "nombre": "Carlos Serafini",
+            "contacto": "carlos.serafini@gmail.com"
+          }
+        ],
+        "sector_asociado": [
+          "Escuela Pre Universitaria Fray Mamerto Esquiú",
+          "Escuela Agrotécnica Nueva Coneta",
+          "Unión Comercial de Catamarca"
+        ]
+      },
+      {
+        "titulo": "Transformación Digital de las Cooperativas y Desarrollo del Oeste Catamarqueño.",
+        "director": "Lazarte, Gustavo Alfredo",
+        "referentes": [
+          {
+            "nombre": "Andrea Morales",
+            "contacto": "andream@eco.unca.edu.ar"
+          },
+          {
+            "nombre": "Carlos Serafini",
+            "contacto": "carlos.serafini@gmail.com"
+          }
+        ],
+        "sector_asociado": [
+          "Dirección Provincial de Acción Cooperativa y Mutual, de la Provincia de Catamarca",
+          "Municipalidad de Belén"
+        ]
+      }
+    ]
+  }
+}
