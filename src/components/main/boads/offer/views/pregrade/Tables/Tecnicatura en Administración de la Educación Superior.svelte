@@ -13,7 +13,7 @@
             <td
                 ><i class="fas fa-download"></i><a
                     class="a-oscuro"
-                    href="/assets/pdf/carreras/Programas/942.pdf"
+                    href="https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/carreras/Programas/942.pdf"
                     target="_blank">Administración General</a
                 ></td
             >
@@ -26,7 +26,7 @@
             <td
                 ><i class="fas fa-download"></i><a
                     class="a-oscuro"
-                    href="/assets/pdf/carreras/Programas/943.pdf"
+                    href="https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/carreras/Programas/943.pdf"
                     target="_blank">Sistemas de Información</a
                 ></td
             >
@@ -39,7 +39,7 @@
             <td
                 ><i class="fas fa-download"></i><a
                     class="a-oscuro"
-                    href="/assets/pdf/carreras/Programas/944.pdf"
+                    href="https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/carreras/Programas/944.pdf"
                     target="_blank">Derecho Administrativo</a
                 ></td
             >
@@ -52,7 +52,7 @@
             <td
                 ><i class="fas fa-download"></i><a
                     class="a-oscuro"
-                    href="/assets/pdf/carreras/Programas/941.pdf"
+                    href="https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/carreras/Programas/941.pdf"
                     target="_blank">Sociología de las Organizaciones</a
                 ></td
             >
@@ -65,7 +65,7 @@
             <td
                 ><i class="fas fa-download"></i><a
                     class="a-oscuro"
-                    href="/assets/pdf/carreras/Programas/945.pdf"
+                    href="https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/carreras/Programas/945.pdf"
                     target="_blank">Gestión de las Organizaciones</a
                 ></td
             >
@@ -78,7 +78,7 @@
             <td
                 ><i class="fas fa-download"></i><a
                     class="a-oscuro"
-                    href="/assets/pdf/carreras/Programas/946.pdf"
+                    href="https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/carreras/Programas/946.pdf"
                     target="_blank">Estadística Aplicada a la Gestión</a
                 ></td
             >
@@ -91,7 +91,7 @@
             <td
                 ><i class="fas fa-download"></i><a
                     class="a-oscuro"
-                    href="/assets/pdf/carreras/Programas/947.pdf"
+                    href="https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/carreras/Programas/947.pdf"
                     target="_blank">Sistema Educativo Argentino</a
                 ></td
             >
@@ -104,7 +104,7 @@
             <td
                 ><i class="fas fa-download"></i><a
                     class="a-oscuro"
-                    href="/assets/pdf/carreras/Programas/948.pdf"
+                    href="https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/carreras/Programas/948.pdf"
                     target="_blank">Administración de Recursos Humanos</a
                 ></td
             >
@@ -117,7 +117,7 @@
             <td
                 ><i class="fas fa-download"></i><a
                     class="a-oscuro"
-                    href="/assets/pdf/carreras/Programas/949.pdf"
+                    href="https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/carreras/Programas/949.pdf"
                     target="_blank">Administración Financiera</a
                 ></td
             >
@@ -128,7 +128,7 @@
         <tr>
             <td>950</td>
             <td
-                ><i class="fas fa-download"></i> <a href="/assets/pdf/carreras/Programas/950.pdf"
+                ><i class="fas fa-download"></i> <a href="https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/carreras/Programas/950.pdf"
                     target="_blank"
                     class="a-oscuro">Régimen Laboral del Sector Educación</a
                 ></td
@@ -142,7 +142,7 @@
             <td
                 ><i class="fas fa-download"></i><a
                     class="a-oscuro"
-                    href="/assets/pdf/carreras/Programas/951.pdf"
+                    href="https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/carreras/Programas/951.pdf"
                     target="_blank">Formulación y Ejecución Presupuestaria</a
                 ></td
             >
@@ -155,7 +155,7 @@
             <td
                 ><i class="fas fa-download"></i><a
                     class="a-oscuro"
-                    href="/assets/pdf/carreras/Programas/952.pdf"
+                    href="https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/carreras/Programas/952.pdf"
                     target="_blank"
                     >Seminario de Integración y Práctica de Administración</a
                 ></td
@@ -167,7 +167,7 @@
         <tr>
             <td>953</td>
             <td 
-                ><i class="fas fa-download"></i> <a href="/assets/pdf/carreras/Programas/953.pdf"
+                ><i class="fas fa-download"></i> <a href="https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/carreras/Programas/953.pdf"
                     target="_blank"
                     class="a-oscuro">Alfabetización Informática</a
                 ></td

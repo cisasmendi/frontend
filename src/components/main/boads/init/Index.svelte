@@ -30,7 +30,7 @@
         }
     });
 
-    const urlImage = "/assets/ingreso/banner2026_2.jpg";
+    const urlImage = "https://eco.unca.edu.ar/assets2/users/paginaeco/banner/duti2.png";
 
     function openLightbox() {
         if (!showBanner) {

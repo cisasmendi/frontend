@@ -3,7 +3,7 @@
     export let title = "";
 </script>
 
-<BoardLayout imageUrl={"/assets/otros/biblioteca.jpg"} {title}>
+<BoardLayout imageUrl={"https://eco.unca.edu.ar/assets2/users/paginaeco/otros/biblioteca.jpg"} {title}>
     <div class="mt-4">
         <h3 class="text-xl font-semibold text-[#6d0205]">Misión</h3>
         <p>

@@ -1,27 +1,27 @@
 Año,Código,Asignatura,Horas_Sem,Horas_Tot,Correlatividades,Cuatrimestre,URL
-Primer Año,251,Teoría Contable,4,56,---,1C,assets/pdf/carreras/Programas/151-251-2018.pdf
-Primer Año,252,Derecho Civil (Cátedra A),4,56,---,1C,assets/pdf/carreras/Programas/152-252-2018-A.pdf
-Primer Año,252,Derecho Civil (Cátedra B),4,56,---,1C,assets/pdf/carreras/Programas/152-252-2018-B.pdf
-Primer Año,253,Cálculo Diferencial,5,70,---,1C,assets/pdf/carreras/Programas/153-253-2018.pdf
-Primer Año,254,Derecho Público,4,56,252,2C,assets/pdf/carreras/Programas/154-254-2018.pdf
-Primer Año,255,Cálculo Integral,3,42,253,2C,assets/pdf/carreras/Programas/155-255-2018.pdf
-Primer Año,262,Administración Básica,5,70,-,2C,assets/pdf/carreras/Programas/262-2022.pdf
-Segundo Año,260,Tecnología de la Información,6,84,262,1C,assets/pdf/carreras/Programas/Licenciatura en Administración 2022/260.pdf
-Segundo Año,258,Derecho Comercial,6,84,254,1C,assets/pdf/carreras/Programas/Licenciatura en Administración 2022/258.pdf
-Segundo Año,259,Algebra Lineal,3,42,255,1C,assets/pdf/carreras/Programas/Licenciatura en Administración 2022/259.pdf
-Segundo Año,256,Introducción a la Contabilidad Financiera,5,70,251,2C,assets/pdf/carreras/Programas/Licenciatura en Administración 2022/256.pdf
-Segundo Año,257,Comportamiento Organizacional,6,84,262,2C,assets/pdf/carreras/Programas/Licenciatura en Administración 2022/257.pdf
+Primer Año,251,Teoría Contable,4,56,---,1C,https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/carreras/Programas/151-251-2018.pdf
+Primer Año,252,Derecho Civil (Cátedra A),4,56,---,1C,https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/carreras/Programas/152-252-2018-A.pdf
+Primer Año,252,Derecho Civil (Cátedra B),4,56,---,1C,https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/carreras/Programas/152-252-2018-B.pdf
+Primer Año,253,Cálculo Diferencial,5,70,---,1C,https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/carreras/Programas/153-253-2018.pdf
+Primer Año,254,Derecho Público,4,56,252,2C,https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/carreras/Programas/154-254-2018.pdf
+Primer Año,255,Cálculo Integral,3,42,253,2C,https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/carreras/Programas/155-255-2018.pdf
+Primer Año,262,Administración Básica,5,70,-,2C,https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/carreras/Programas/262-2022.pdf
+Segundo Año,260,Tecnología de la Información,6,84,262,1C,https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/carreras/Programas/Licenciatura en Administración 2022/260.pdf
+Segundo Año,258,Derecho Comercial,6,84,254,1C,https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/carreras/Programas/Licenciatura en Administración 2022/258.pdf
+Segundo Año,259,Algebra Lineal,3,42,255,1C,https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/carreras/Programas/Licenciatura en Administración 2022/259.pdf
+Segundo Año,256,Introducción a la Contabilidad Financiera,5,70,251,2C,https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/carreras/Programas/Licenciatura en Administración 2022/256.pdf
+Segundo Año,257,Comportamiento Organizacional,6,84,262,2C,https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/carreras/Programas/Licenciatura en Administración 2022/257.pdf
 Segundo Año,261,Microeconomía,6,84,259,2C,
-Segundo Año,263,Sistemas y Procedimientos Administrativos,6,84,262-260,2C,assets/pdf/carreras/Programas/Licenciatura en Administración 2022/263.pdf
-Segundo Año,264,Inglés Técnico Básico,,,,,assets/pdf/carreras/Programas/Licenciatura en Administración 2022/264.pdf
-Tercer Año,265,Macroeconomía y Política Económica,7,98,261,1C,assets/pdf/carreras/Programas/Licenciatura en Administración 2022/265.pdf
-Tercer Año,266,Sociedades Comerciales,6,84,258,1C,assets/pdf/carreras/Programas/Licenciatura en Administración 2022/266.pdf
-Tercer Año,267,Doctrinas Sociales y Económicas,5,70,261,1C,assets/pdf/carreras/Programas/Licenciatura en Administración 2022/267.pdf
-Tercer Año,268,Costos para la toma de decisiones,6,84,260-256,1C,assets/pdf/carreras/Programas/Licenciatura en Administración 2022/268.pdf
-Tercer Año,269,Estadística,5,70,259,2C,assets/pdf/carreras/Programas/Licenciatura en Administración 2022/269.pdf
-Tercer Año,270,Derecho Laboral y Previsional,5,70,258,2C,assets/pdf/carreras/Programas/Licenciatura en Administración 2022/270.pdf
-Tercer Año,271,Matemática Financiera y Actuarial,4,56,259,2C,assets/pdf/carreras/Programas/Licenciatura en Administración 2022/271.pdf
-Tercer Año,273,Contabilidad para la toma de decisiones,6,84,268,2C,assets/pdf/carreras/Programas/Licenciatura en Administración 2022/273.pdf
+Segundo Año,263,Sistemas y Procedimientos Administrativos,6,84,262-260,2C,https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/carreras/Programas/Licenciatura en Administración 2022/263.pdf
+Segundo Año,264,Inglés Técnico Básico,,,,,https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/carreras/Programas/Licenciatura en Administración 2022/264.pdf
+Tercer Año,265,Macroeconomía y Política Económica,7,98,261,1C,https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/carreras/Programas/Licenciatura en Administración 2022/265.pdf
+Tercer Año,266,Sociedades Comerciales,6,84,258,1C,https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/carreras/Programas/Licenciatura en Administración 2022/266.pdf
+Tercer Año,267,Doctrinas Sociales y Económicas,5,70,261,1C,https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/carreras/Programas/Licenciatura en Administración 2022/267.pdf
+Tercer Año,268,Costos para la toma de decisiones,6,84,260-256,1C,https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/carreras/Programas/Licenciatura en Administración 2022/268.pdf
+Tercer Año,269,Estadística,5,70,259,2C,https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/carreras/Programas/Licenciatura en Administración 2022/269.pdf
+Tercer Año,270,Derecho Laboral y Previsional,5,70,258,2C,https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/carreras/Programas/Licenciatura en Administración 2022/270.pdf
+Tercer Año,271,Matemática Financiera y Actuarial,4,56,259,2C,https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/carreras/Programas/Licenciatura en Administración 2022/271.pdf
+Tercer Año,273,Contabilidad para la toma de decisiones,6,84,268,2C,https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/carreras/Programas/Licenciatura en Administración 2022/273.pdf
 Cuarto Año,272,Administración de la Comercialización,6,70,273,1C,
 Cuarto Año,274,Finanzas Públicas,4,56,267-254,1C,
 Cuarto Año,275,Métodos Cuantitativos,4,56,269,1C,
@@ -37,7 +37,7 @@ Quinto Año,283,Administración Financiera,6,84,271,1C,
 Quinto Año,287,Laboratorio de Creación de Empresas,5,70,278-272-291,1C,
 Quinto Año,292,Planeamiento a Largo Plazo,6,84,278-272,2C,
 Quinto Año,285,Dirección General,6,84,277-291,2C,
-Espacio Final de Integración,288,Espacio de Integración (PPS),8,112,70% mat. aprobadas,,assets/pdf/carreras/Programas/Licenciatura en Administración 2022/288.pdf
+Espacio Final de Integración,288,Espacio de Integración (PPS),8,112,70% mat. aprobadas,,https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/carreras/Programas/Licenciatura en Administración 2022/288.pdf
 Espacio Final de Integración,289,Prácticas Sociales,3,42,60% mat. aprobadas,,
 Optativa,284,Taller de preparación para la vida laboral,4,56,---,2C,
 Optativa,286,Tecnologías Blockchain y Criptomonedas,4,56,---,2C,

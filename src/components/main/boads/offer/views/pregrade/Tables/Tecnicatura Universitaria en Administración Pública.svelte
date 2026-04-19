@@ -10,7 +10,7 @@
             <td>871</td>
             <td
                 ><a
-                    href="/assets/pdf/carreras/pregrado/TUAP/introAdministracionPublica.pdf"
+                    href="https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/carreras/pregrado/TUAP/introAdministracionPublica.pdf"
                     target="_blank"
                     class="a-oscuro">Introducción a la Administración Pública</a
                 ></td
@@ -22,7 +22,7 @@
             <td>872</td>
             <td
                 ><a
-                    href="/assets/pdf/carreras/pregrado/TUAP/derechoPublico-1.pdf"
+                    href="https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/carreras/pregrado/TUAP/derechoPublico-1.pdf"
                     target="_blank"
                     class="a-oscuro">Derecho Público I</a
                 ></td
@@ -34,7 +34,7 @@
             <td>874</td>
             <td
                 ><a
-                    href="/assets/pdf/carreras/pregrado/TUAP/comportamientoOrganizacional.pdf"
+                    href="https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/carreras/pregrado/TUAP/comportamientoOrganizacional.pdf"
                     target="_blank"
                     class="a-oscuro">Comportamiento Organizacional</a
                 ></td
@@ -46,7 +46,7 @@
             <td>873</td>
             <td
                 ><a
-                    href="/assets/pdf/carreras/pregrado/TUAP/introFinanzasPublicas.pdf"
+                    href="https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/carreras/pregrado/TUAP/introFinanzasPublicas.pdf"
                     target="_blank"
                     class="a-oscuro">Introducción a las Finanzas Públicas</a
                 ></td
@@ -58,7 +58,7 @@
             <td>875</td>
             <td
                 ><a
-                    href="/assets/pdf/carreras/pregrado/TUAP/teoriaAdministrativa.pdf"
+                    href="https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/carreras/pregrado/TUAP/teoriaAdministrativa.pdf"
                     target="_blank"
                     class="a-oscuro">Teoría Administrativa</a
                 ></td
@@ -70,7 +70,7 @@
             <td>877</td>
             <td
                 ><a
-                    href="/assets/pdf/carreras/pregrado/TUAP/organizacionesPublicas.pdf"
+                    href="https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/carreras/pregrado/TUAP/organizacionesPublicas.pdf"
                     target="_blank"
                     class="a-oscuro">Las Organizaciones Públicas</a
                 ></td
@@ -82,7 +82,7 @@
             <td>876</td>
             <td
                 ><a
-                    href="/assets/pdf/carreras/pregrado/TUAP/haciendaPublica-I.pdf"
+                    href="https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/carreras/pregrado/TUAP/haciendaPublica-I.pdf"
                     target="_blank"
                     class="a-oscuro">Hacienda Pública I</a
                 ></td
@@ -94,7 +94,7 @@
             <td>878</td>
             <td
                 ><a
-                    href="/assets/pdf/carreras/pregrado/TUAP/derechoPublico-2.pdf"
+                    href="https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/carreras/pregrado/TUAP/derechoPublico-2.pdf"
                     target="_blank"
                     class="a-oscuro">Derecho Público II</a
                 ></td
@@ -106,7 +106,7 @@
             <td>879</td>
             <td
                 ><a
-                    href="/assets/pdf/carreras/pregrado/TUAP/teoriaContable.pdf"
+                    href="https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/carreras/pregrado/TUAP/teoriaContable.pdf"
                     target="_blank"
                     class="a-oscuro">Teoría Contable</a
                 ></td
@@ -118,7 +118,7 @@
             <td>880</td>
             <td
                 ><a
-                    href="/assets/pdf/carreras/pregrado/TUAP/haciendaPublica-II.pdf"
+                    href="https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/carreras/pregrado/TUAP/haciendaPublica-II.pdf"
                     target="_blank"
                     class="a-oscuro">Hacienda Pública II</a
                 ></td
@@ -130,7 +130,7 @@
             <td>881</td>
             <td
                 ><a
-                    href="/assets/pdf/carreras/pregrado/TUAP/gerenciaPublica.pdf"
+                    href="https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/carreras/pregrado/TUAP/gerenciaPublica.pdf"
                     target="_blank"
                     class="a-oscuro">La Gerencia Pública</a
                 ></td

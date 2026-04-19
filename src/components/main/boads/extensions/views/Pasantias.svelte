@@ -331,35 +331,35 @@
           <li>
             <a
               class="a-oscuro"
-              href="/assets/pdf/extension/pasantiaDatosEmpresa.doc"
+              href="https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/extension/pasantiaDatosEmpresa.doc"
               target="_blank">Datos de la empresa</a
             >
           </li>
           <li>
             <a
               class="a-oscuro"
-              href="/assets/pdf/extension/pasantiaModeloCartaIntencion.doc"
+              href="https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/extension/pasantiaModeloCartaIntencion.doc"
               target="_blank">Modelo de carta de intención completa</a
             >
           </li>
           <li>
             <a
               class="a-oscuro"
-              href="/assets/pdf/extension/pasantiaActaAcuerdoIndividual.doc"
+              href="https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/extension/pasantiaActaAcuerdoIndividual.doc"
               target="_blank">Acta de acuerdo individual</a
             >
           </li>
           <li>
             <a
               class="a-oscuro"
-              href="/assets/pdf/extension/pasantiaConvenioPasantia.doc"
+              href="https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/extension/pasantiaConvenioPasantia.doc"
               target="_blank">Convenio de Pasantía</a
             >
           </li>
           <li>
             <a
               class="a-oscuro"
-              href="/assets/pdf/extension/pasantiaFichaSolicitudBusquedaSeleccion.doc"
+              href="https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/extension/pasantiaFichaSolicitudBusquedaSeleccion.doc"
               target="_blank"
               >Ficha de Solicitud de Búsqueda y Selección Completo</a
             >

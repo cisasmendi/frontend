@@ -16,7 +16,7 @@
             <td
                 ><a
                     class="a-oscuro"
-                    href="/assets/pdf/carreras/Programas/506.pdf"
+                    href="https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/carreras/Programas/506.pdf"
                     target="_blank">Ciencia Política</a
                 ></td
             >
@@ -29,7 +29,7 @@
                 ><a
                     class="a-oscuro"
                     target="_blank"
-                    href="/assets/pdf/carreras/Programas/502.pdf"
+                    href="https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/carreras/Programas/502.pdf"
                     >Derecho Administrativo</a
                 ></td
             >
@@ -42,7 +42,7 @@
                 ><a
                     class="a-oscuro"
                     target="_blank"
-                    href="/assets/pdf/carreras/Programas/503.pdf"
+                    href="https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/carreras/Programas/503.pdf"
                     >Matemática Básica</a
                 ></td
             >
@@ -55,7 +55,7 @@
                 ><a
                     class="a-oscuro"
                     target="_blank"
-                    href="/assets/pdf/carreras/Programas/507.pdf"
+                    href="https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/carreras/Programas/507.pdf"
                     >Taller de Investigación en Ciencias Sociales</a
                 >
             </td>
@@ -73,7 +73,7 @@
                 ><a
                     class="a-oscuro"
                     target="_blank"
-                    href="/assets/pdf/carreras/Programas/504.pdf">Economía</a
+                    href="https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/carreras/Programas/504.pdf">Economía</a
                 >
             </td>
             <td>503</td>
@@ -84,7 +84,7 @@
             <td
                 ><a
                     class="a-oscuro"
-                    href="/assets/pdf/carreras/Programas/508.pdf"
+                    href="https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/carreras/Programas/508.pdf"
                     target="_blank">Tecnologías de Administración y Gestión</a
                 ></td
             >
@@ -97,7 +97,7 @@
                 ><a
                     class="a-oscuro"
                     target="_blank"
-                    href="/assets/pdf/carreras/Programas/509.pdf"
+                    href="https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/carreras/Programas/509.pdf"
                     >Políticas Públicas</a
                 >
             </td>
@@ -110,7 +110,7 @@
                 ><a
                     class="a-oscuro"
                     target="_blank"
-                    href="/assets/pdf/carreras/Programas/512.pdf"
+                    href="https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/carreras/Programas/512.pdf"
                     >Gestión y Costos</a
                 >
             </td>
@@ -130,7 +130,7 @@
                 ><a
                     class="a-oscuro"
                     target="_blank"
-                    href="/assets/pdf/carreras/Programas/534.pdf"
+                    href="https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/carreras/Programas/534.pdf"
                     >Inglés Técnico Básico</a
                 >
             </td>
@@ -143,7 +143,7 @@
                 ><a
                     class="a-oscuro"
                     target="_blank"
-                    href="/assets/pdf/carreras/Programas/535.pdf"
+                    href="https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/carreras/Programas/535.pdf"
                     >Nivel de Computación Básico</a
                 >
             </td>
@@ -155,7 +155,7 @@
             <td
                 ><a
                     class="a-oscuro"
-                    href="/assets/pdf/carreras/Programas/542.pdf"
+                    href="https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/carreras/Programas/542.pdf"
                     target="_blank">Finanzas Públicas</a
                 ></td
             >
@@ -167,7 +167,7 @@
             <td
                 ><a
                     class="a-oscuro"
-                    href="/assets/pdf/carreras/Programas/518.pdf"
+                    href="https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/carreras/Programas/518.pdf"
                     target="_blank"
                     >Formulación y Evaluación de Proyectos de Inversión</a
                 ></td
@@ -180,7 +180,7 @@
             <td
                 ><a
                     class="a-oscuro"
-                    href="/assets/pdf/carreras/Programas/516.pdf"
+                    href="https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/carreras/Programas/516.pdf"
                     target="_blank">Administración de Recursos Humanos</a
                 ></td
             >
@@ -192,7 +192,7 @@
             <td
                 ><a
                     class="a-oscuro"
-                    href="/assets/pdf/carreras/Programas/515.pdf"
+                    href="https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/carreras/Programas/515.pdf"
                     target="_blank">Planeamiento en el Estado</a
                 ></td
             >
@@ -204,7 +204,7 @@
             <td
                 ><a
                     class="a-oscuro"
-                    href="/assets/pdf/carreras/Programas/544.pdf"
+                    href="https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/carreras/Programas/544.pdf"
                     target="_blank">Hacienda Pública</a
                 ></td
             >
@@ -216,7 +216,7 @@
             <td
                 ><a
                     class="a-oscuro"
-                    href="/assets/pdf/carreras/Programas/547.pdf"
+                    href="https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/carreras/Programas/547.pdf"
                     target="_blank">Marco Regulatorio del Empleo Público</a
                 ></td
             >
@@ -228,7 +228,7 @@
             <td
                 ><a
                     class="a-oscuro"
-                    href="/assets/pdf/carreras/Programas/546.pdf"
+                    href="https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/carreras/Programas/546.pdf"
                     target="_blank">Gestión de las Políticas Económicas</a
                 ></td
             >
@@ -241,7 +241,7 @@
                 ><a
                     class="a-oscuro"
                     target="_blank"
-                    href="/assets/pdf/carreras/Programas/519.pdf"
+                    href="https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/carreras/Programas/519.pdf"
                     >Dirección General</a
                 ></td
             >
@@ -253,7 +253,7 @@
             <td
                 ><a
                     class="a-oscuro"
-                    href="/assets/pdf/carreras/Programas/524.pdf"
+                    href="https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/carreras/Programas/524.pdf"
                     target="_blank"
                     >Ejercicio Profesional para la Gestión Pública</a
                 ></td
@@ -266,7 +266,7 @@
             <td
                 ><a
                     class="a-oscuro"
-                    href="/assets/pdf/carreras/Programas/523.pdf"
+                    href="https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/carreras/Programas/523.pdf"
                     target="_blank">Gestión de las Políticas Sociales</a
                 ></td
             >

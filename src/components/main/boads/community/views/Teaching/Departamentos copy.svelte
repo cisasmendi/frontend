@@ -6,8 +6,9 @@
 </script>
 
 <BoardLayout title="Departamentos">
-    <div class="w-full"> 
-
+    <div class="w-full">
+        <!-- Sección Departamentos -->
+        <h3 class="text-xl font-semibold text-[#6d0205] pt-4">Departamentos</h3>
 
         <h4 class="text-lg font-semibold pt-2">Funciones y Competencias</h4>
         <p>
@@ -97,119 +98,114 @@
                 la programación académica de las Cátedras.
             </li>
         </ul>
-<h4 class="text-lg font-semibold pt-2">Periodo 2025-2027</h4>
-        <Accordion title={"Departamento Contabilidad"}>
+
+        <Accordion title={"Administración"}>
             <div slot="content">
                 <p>
-                    <strong>Director:</strong> CPN Juan Marcelo RIVAS
+                    <strong>Director:</strong> Dr. Rafael Marcelo Ponzo Florimonte
                 </p>
                 <p>
-                    <strong>Sub-Directora:</strong> CP Andrea Silvina MORALES
+                    <strong>Sub-Director:</strong> Lic. Jorge Sebastián Degani
                 </p>
-
-                <h5 class="font-semibold pt-2">
-                    Asignaturas vinculadas (Contador Público):
-                </h5>
-                <ul class="list-disc pl-5">
-                    <li>Teoría Contable</li>
-                    <li>Contabilidad Financiera Registración</li>
-                    <li>Contabilidad Financiera Exposición</li>
-                    <li>Contabilidad Financiera Medición</li>
-                    <li>Contabilidad de Costos</li>
-                    <li>Contabilidad de Gestión y Costos</li>
-                    <li>Contabilidad Financiera para Sectores Específicos</li>
-                    <li>Cuestiones Contables Particulares</li>
-                    <li>Contabilidad Social y Ambiental</li>
-                    <li>Auditoría</li>
-                    <li>Teoría y Técnica Impositiva I, II y III</li>
-                    <li>Espacio de Integración (PPS)</li>
-                </ul>
-            </div>
-        </Accordion>
-
-        <Accordion title={"Departamento Administración"}>
-            <div slot="content">
-                <p>
-                    <strong>Director:</strong> Dr. Rafael Marcelo PONZO FLORIMONTE
-                </p>
-                <p>
-                    <strong>Sub-Directora:</strong> Lic. Leticia Inés GALLO
-                </p>
-                <h5 class="font-semibold pt-2">
-                    Asignaturas vinculadas (Contador Público - Plan 2018):
-                </h5>
+                <h5 class="font-semibold">Contador Público Nacional:</h5>
                 <ul class="list-disc pl-5">
                     <li>Administración Básica</li>
-                    <li>Tecnología de la Información</li>
+                    <li>Tecnología de la Administración</li>
                     <li>Administración General y Estratégica</li>
                     <li>Administración y Contabilidad Pública</li>
                     <li>Administración Financiera</li>
                     <li>Administración de Personal</li>
-                    <li>Planeamiento a largo plazo</li>
-                    <li>Actualización Digital para Profesionales</li>
-                    <li>Taller de Preparación para la vida Laboral</li>
+                    <li>Planeamiento a Largo Plazo</li>
+                    <li>Organización Contable y Administrativa</li>
                 </ul>
-            </div>
-        </Accordion>
-
-        <Accordion title={"Departamento Matemáticas"}>
-            <div slot="content">
-                <p>
-                    <strong>Director:</strong> Ing. Adriana Mabel LEZANA
-                </p>
-                <p>
-                    <strong>Sub-Director:</strong> Ing. Raúl Eduardo LEIVA
-                </p>
-
-                <h5 class="font-semibold pt-2">
-                    Asignaturas vinculadas (Contador Público - Plan 2018):
-                </h5>
+                <h5 class="font-semibold">Licenciatura en Administración:</h5>
                 <ul class="list-disc pl-5">
-                    <li>Cálculo Diferencial</li>
-                    <li>Cálculo Integral</li>
-                    <li>Álgebra Lineal</li>
-                    <li>Estadística</li>
-                    <li>Matemática Financiera y Actuarial</li>
-                    <li>Métodos Cuantitativos</li>
+                    <li>Administración Básica</li>
+                    <li>Comportamiento Organizacional</li>
+                    <li>Tecnología de la Información</li>
+                    <li>Administración de Personal</li>
+                    <li>Administración de la Comercialización</li>
+                    <li>Administración y Contabilidad Pública</li>
+                    <li>Administración Financiera</li>
+                    <li>Teoría de la Decisión</li>
+                    <li>Administración de Operaciones</li>
+                    <li>Planeamiento a Largo Plazo</li>
+                    <li>Dirección General</li>
+                    <li>Políticas Públicas</li>
+                    <li>Ejercicio Profesional para Administradores</li>
+                    <li>Organización Contable y Administrativa</li>
                 </ul>
             </div>
         </Accordion>
-
-        <Accordion title={"Departamento Economía y Humanística"}>
+        <Accordion title={"Contabilidad"}>
             <div slot="content">
                 <p>
-                    <strong>Director:</strong> Lic. Mario Alberto PERNA
+                    <strong>Director:</strong> CPN Ramon Rubén Aguirre
                 </p>
                 <p>
-                    <strong>Sub-Director:</strong> Lic. Marcelo Luis ALTAMIRANO
+                    <strong>Sub-Director:</strong> CPN Juan Marcelo Rivas
                 </p>
-
-                <h5 class="font-semibold pt-2">
-                    Asignaturas vinculadas (Contador Público - Plan 2018):
-                </h5>
+                <h5 class="font-semibold">Contador Público Nacional:</h5>
+                <ul class="list-disc pl-5">
+                    <li>Contabilidad I</li>
+                    <li>Contabilidad II</li>
+                    <li>Contabilidad III</li>
+                    <li>Contabilidad de Costos</li>
+                    <li>Gestión y Costos</li>
+                    <li>Contabilidad IV</li>
+                    <li>Auditoría</li>
+                    <li>Teoría y Técnica Impositiva I, II, III</li>
+                    <li>Ejercicio Profesional para Contadores</li>
+                </ul>
+                <h5 class="font-semibold">Licenciatura en Administración:</h5>
+                <ul class="list-disc pl-5">
+                    <li>Teoría Contable</li>
+                    <li>Contabilidad para Administradores</li>
+                    <li>Gestión y Costos</li>
+                    <li>Régimen Tributario</li>
+                </ul>
+            </div>
+        </Accordion>
+        <Accordion title={"Economía y Humanística"}>
+            <div slot="content">
+                <p>
+                    <strong>Director:</strong> Lic. María Marta Jalil Colomé
+                </p>
+                <p>
+                    <strong>Sub-Director:</strong> Dr. Rodolfo Ángel Vázquez
+                </p>
+                <h5 class="font-semibold">Contador Público Nacional:</h5>
                 <ul class="list-disc pl-5">
                     <li>Microeconomía</li>
                     <li>Macroeconomía y Política Económica</li>
                     <li>Doctrinas Sociales y Económicas</li>
                     <li>Finanzas Públicas</li>
-                    <li>Introducción a las Ciencias Sociales</li>
-                    <li>Inglés Técnico Básico</li>
-                    <li>Prácticas Sociales</li>
+                    <li>Economía Regional y Provincial</li>
+                    <li>Comercio Exterior</li>
+                    <li>Introducción a la Investigación Social</li>
+                </ul>
+                <h5 class="font-semibold">Licenciatura en Administración:</h5>
+                <ul class="list-disc pl-5">
+                    <li>Microeconomía</li>
+                    <li>Macroeconomía y Política Económica</li>
+                    <li>Introducción a la Investigación Social</li>
+                    <li>Doctrinas Sociales y Económicas</li>
+                    <li>Finanzas Públicas</li>
                 </ul>
             </div>
         </Accordion>
 
-        <Accordion title={"Departamento Jurídico"}>
+        <Accordion title={"Jurídico"}>
             <div slot="content">
                 <p>
-                    <strong>Director:</strong> Dr. Oscar Eduardo CARRIZO SAFE
+                    <strong>Director:</strong> Dr. Oscar Carrizo Safe
                 </p>
                 <p>
-                    <strong>Sub-Director:</strong> Abog. Fernando Augusto NAVARRO
+                    <strong>Sub-Director:</strong> Dr. Fernando Navarro
                 </p>
 
-                <h5 class="font-semibold pt-2">
-                    Asignaturas vinculadas (Contador Público - Plan 2018):
+                <h5 class="text-md font-semibold pt-2">
+                    Contador Público Nacional
                 </h5>
                 <ul class="list-disc pl-5">
                     <li>Derecho Público</li>
@@ -217,8 +213,63 @@
                     <li>Derecho Comercial</li>
                     <li>Sociedades Comerciales</li>
                     <li>Derecho Laboral y Previsional</li>
-                    <li>Concurso y Quiebra</li>
+                    <li>Legislación Concursal y Práctica Judicial</li>
                 </ul>
+
+                <h5 class="text-md font-semibold pt-2">
+                    Licenciatura en Administración
+                </h5>
+                <ul class="list-disc pl-5">
+                    <li>Derecho Público</li>
+                    <li>Derecho Civil</li>
+                    <li>Derecho Comercial</li>
+                    <li>Sociedades Comerciales</li>
+                </ul>
+            </div>
+        </Accordion>
+
+        <Accordion title={"Matemáticas"}>
+            <div slot="content">
+                <p>
+                    <strong>Directora:</strong> Ing. Adriana Mabel Lezana
+                </p>
+
+                <h5 class="text-md font-semibold pt-2">
+                    Contador Público Nacional
+                </h5>
+                <ul class="list-disc pl-5">
+                    <li>Matemática I</li>
+                    <li>Matemática II</li>
+                    <li>Matemática III</li>
+                    <li>Estadística</li>
+                    <li>Cálculo Financiero</li>
+                    <li>Métodos Cuantitativos</li>
+                </ul>
+
+                <h5 class="text-md font-semibold pt-2">
+                    Licenciatura en Administración
+                </h5>
+                <ul class="list-disc pl-5">
+                    <li>Matemática I</li>
+                    <li>Matemática II</li>
+                    <li>Matemática III</li>
+                    <li>Estadística</li>
+                    <li>Cálculo Financiero</li>
+                    <li>Técnicas Cuantitativas para Administradores</li>
+                    <li>Investigación Operativa</li>
+                </ul>
+            </div>
+        </Accordion>
+
+        <Accordion title={"Pedagógico"}>
+            <div slot="content">
+                <p><strong>Directora:</strong> Lic. Marisa Rosana Juri</p>
+                <p>
+                    <strong>Email:</strong>
+                    <a href="mailto:rosana.juri@gmail.com" class="text-blue-500"
+                        >rosana.juri@gmail.com</a
+                    >
+                </p>
             </div>
         </Accordion>
     </div>

@@ -41,7 +41,7 @@
 <main class=" mx-auto flex flex-col lg:flex-row w-full lg:w-auto ">    
     <Menu {menuItems} on:click={handleClick} />
     {#if title === "Nuestra Historia"}
-        <History {title} imageUrl={"/assets/imagenes/rector.jpg"} />
+        <History {title} imageUrl={"https://eco.unca.edu.ar/assets2/users/paginaeco/imagenes/rector.jpg"} />
     {/if}
     {#if title === "Autoridades"}
         <Authorities {title} />

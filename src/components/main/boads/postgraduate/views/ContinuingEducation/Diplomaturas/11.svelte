@@ -13,8 +13,8 @@
   let arancel = "6 cuotas de $70.000";
 
   let inscriptionLink = "https://forms.gle/38KcgmMrKjZSHErJ7";
-  let qrCode = "/assets/posgrado/Diplomatura/11_qr.png";
-  
+  let qrCode = "https://eco.unca.edu.ar/assets2/users/paginaeco/posgrado/Diplomatura/11_qr.png";
+
   let bankDetails = {
     nombre: "FC.CS.ECON.Y ADM.",
     cuit: "30641870931",
@@ -24,7 +24,8 @@
     emailComprobante: "paulrasgido@eco.unca.edu.ar",
   };
 
-  let objetivoGeneral = "Que el alumno en su proceso de formación académica adquiera aquellas competencias consideradas como fundamentales para su desenvolvimiento en la organización y gestión de emprendimientos turísticos.";
+  let objetivoGeneral =
+    "Que el alumno en su proceso de formación académica adquiera aquellas competencias consideradas como fundamentales para su desenvolvimiento en la organización y gestión de emprendimientos turísticos.";
 
   let objetivosEspecificos = [
     "Que el alumno adquiera conocimientos básicos sobre el turismo como actividad económica y su contribución al desarrollo, visualizando la importancia de la articulación público-privado.",
@@ -33,17 +34,19 @@
     "Que el alumno incorpore aspectos conceptuales y herramentales de marketing tradicional y digital aplicado al sector turístico para entender el funcionamiento del mercado, diseñar, posicionar y comercializar productos turísticos en forma adecuada.",
   ];
 
-  let caracteristicas = "La Diplomatura ofrece una formación sistemática y específica en una pluralidad de contenidos propios y específicos, necesarios para desenvolverse en el mercado turístico, con el fin de profundizar los conocimientos y mejorar las calificaciones laborales incorporando herramientas de planificación, organización y gestión. Asimismo, se establecen en cada módulo orientaciones en el dictado aplicadas al destino que nos ocupa y de las características de la Provincia de Catamarca como destino emergente de acuerdo a la demanda relevada como producto de los Proyectos de Investigación, transferencia y extensión desarrollados en los últimos diez años por la Facultad de Ciencias Económicas y de Administración. La carga horaria total es de ciento ochenta (180) horas reloj las que se distribuyen en el desarrollo de clases sincrónicas y trabajo autónomo del alumno a partir de las indicaciones de cada docente-tutor.";
+  let caracteristicas =
+    "La Diplomatura ofrece una formación sistemática y específica en una pluralidad de contenidos propios y específicos, necesarios para desenvolverse en el mercado turístico, con el fin de profundizar los conocimientos y mejorar las calificaciones laborales incorporando herramientas de planificación, organización y gestión. Asimismo, se establecen en cada módulo orientaciones en el dictado aplicadas al destino que nos ocupa y de las características de la Provincia de Catamarca como destino emergente de acuerdo a la demanda relevada como producto de los Proyectos de Investigación, transferencia y extensión desarrollados en los últimos diez años por la Facultad de Ciencias Económicas y de Administración. La carga horaria total es de ciento ochenta (180) horas reloj las que se distribuyen en el desarrollo de clases sincrónicas y trabajo autónomo del alumno a partir de las indicaciones de cada docente-tutor.";
 
-  let destinatarios = "Ciudadanos interesados en la gestión turística. Se contemplarán especialmente los casos de quienes posean experiencia laboral en el sector turismo.";
+  let destinatarios =
+    "Ciudadanos interesados en la gestión turística. Se contemplarán especialmente los casos de quienes posean experiencia laboral en el sector turismo.";
 
   let planEstudios = [
-    "Turismo como actividad económica. La revolución 4.0 en los negocios y el turismo.",
-    "Planificación del desarrollo de un destino turístico. Comunidad anfitriona.",
-    "Organización y Gestión de empresas turísticas.",
-    "Marketing turístico: Plan de negocios en la empresa turística.",
-    "Calidad y competitividad turística.",
-    "Taller de integración y tutorías.",
+    "1. Turismo como actividad económica. La revolución 4.0 en los negocios y el turismo.",
+    "2. Planificación del desarrollo de un destino turístico. Comunidad anfitriona.",
+    "3. Organización y Gestión de empresas turísticas.",
+    "4. Marketing turístico: Plan de negocios en la empresa turística.",
+    "5. Calidad y competitividad turística.",
+    "6. Taller de integración y tutorías.",
   ];
 
   let informes = {
@@ -54,9 +57,9 @@
 </script>
 
 <Accordion title={courseTitle} isOpen={open}>
-  <div slot="content">
+  <div slot="content" class="course-content">
     <h1>{courseTitle}</h1>
-    
+
     <p><strong>Director:</strong> {director}</p>
     <p><strong>Inicio:</strong> {inicio}</p>
     <p><strong>Modalidad:</strong> {modalidad}</p>
@@ -65,13 +68,13 @@
     <p><strong>Inscripción:</strong> {inscripcionCosto}</p>
     <p><strong>Arancel:</strong> {arancel}</p>
 
-     <h2>Inscripciones</h2>
+    <h2>Inscripciones</h2>
     <a href={inscriptionLink} target="_blank" style="color:blue"
       >► FORMULARIO DE INSCRIPCIÓN</a
     >
 
-       <div class="animate-slide-in-up">
-      <img src={qrCode} alt="Código QR de inscripción" />
+    <div class="animate-slide-in-up">
+      <img src={qrCode} alt="Código QR de inscripción" class="qr-image" />
     </div>
 
     <h2>Datos Bancarios</h2>
@@ -80,13 +83,18 @@
     <p><strong>Número de cuenta:</strong> {bankDetails.numeroCuenta}</p>
     <p><strong>Alias:</strong> {bankDetails.alias}</p>
     <p><strong>CBU:</strong> {bankDetails.cbu}</p>
-    <p><strong>Envío de comprobante de pago:</strong> <a href="mailto:{bankDetails.emailComprobante}">{bankDetails.emailComprobante}</a></p>
+    <p>
+      <strong>Envío de comprobante de pago:</strong>
+      <a href="mailto:{bankDetails.emailComprobante}"
+        >{bankDetails.emailComprobante}</a
+      >
+    </p>
 
     <h2>Objetivo General</h2>
     <p>{objetivoGeneral}</p>
 
     <h2>Objetivos Específicos</h2>
-    <ul>
+    <ul class="objective-list">
       {#each objetivosEspecificos as obj}
         <li>{obj}</li>
       {/each}
@@ -108,11 +116,22 @@
     <h2>Informes</h2>
     <p><strong>{informes.unidad}</strong></p>
     <p>{informes.direccion}</p>
-    <p>Correo electrónico: <a href="mailto:{informes.email}">{informes.email}</a></p>
+    <p>
+      Correo electrónico: <a href="mailto:{informes.email}">{informes.email}</a>
+    </p>
   </div>
 </Accordion>
 
 <style>
+  .course-content {
+    font-size: 1rem;
+  }
+
+  .course-content p,
+  .course-content li {
+    font-size: 1rem;
+  }
+
   h1 {
     font-weight: 600;
     font-family: "Merriweather", serif;
@@ -127,7 +146,8 @@
     padding-top: 1rem;
     color: #7a1c0b;
   }
-  ul, ol {
+  ul,
+  ol {
     margin-left: 1.5rem;
   }
   a {
@@ -138,4 +158,19 @@
     color: #7a1c0b;
   }
 
+  .objective-list {
+    list-style: disc;
+    padding-left: 1.25rem;
+    margin: 0.5rem 0;
+  }
+
+  .objective-list li {
+    margin-bottom: 0.35rem;
+  }
+
+  .qr-image {
+    width: 180px;
+    max-width: 100%;
+    height: auto;
+  }
 </style>

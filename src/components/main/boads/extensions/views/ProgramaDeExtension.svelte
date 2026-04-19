@@ -10,31 +10,31 @@
       pdfs: [ //Informe Anual 2024 - Oficina de Orientación
        {
           nombre: "Resultados 2024",
-          url: "/assets/pdf/extension/Informe Anual 2024 - Oficina de Orientación.pdf",
+          url: "https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/extension/Informe Anual 2024 - Oficina de Orientación.pdf",
         },
         {
           nombre: "Resultados 2023",
-          url: "/assets/pdf/extension/Orientaci%C3%B3nEmprendedorResultados2023.pdf",
+          url: "https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/extension/Orientaci%C3%B3nEmprendedorResultados2023.pdf",
         },
         {
           nombre: "Resultados 2022",
-          url: "/assets/pdf/extension/Orientaci%C3%B3nEmprendedorResultados2022.pdf",
+          url: "https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/extension/Orientaci%C3%B3nEmprendedorResultados2022.pdf",
         },
         {
           nombre: "Resultados 2021",
-          url: "/assets/pdf/extension/Orientaci%C3%B3nEmprendedorResultados2021.pdf",
+          url: "https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/extension/Orientaci%C3%B3nEmprendedorResultados2021.pdf",
         },
         {
           nombre: "Resultados 2020",
-          url: "/assets/pdf/extension/Orientaci%C3%B3nEmprendedorResultados2020.pdf",
+          url: "https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/extension/Orientaci%C3%B3nEmprendedorResultados2020.pdf",
         },
         {
           nombre: "Resultados 2019",
-          url: "/assets/pdf/extension/Orientaci%C3%B3nEmprendedorResultados2019.pdf",
+          url: "https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/extension/Orientaci%C3%B3nEmprendedorResultados2019.pdf",
         },
         {
           nombre: "Resultados 2018",
-          url: "/assets/pdf/extension/Orientaci%C3%B3nEmprendedorResultados2018.pdf",
+          url: "https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/extension/Orientaci%C3%B3nEmprendedorResultados2018.pdf",
         },
       ],
     },
@@ -43,11 +43,11 @@
       pdfs: [
         {
           nombre: "Resultados 2019",
-          url: "/assets/pdf/extension/informeCatedraAbierta2019.pdf",
+          url: "https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/extension/informeCatedraAbierta2019.pdf",
         },
         {
           nombre: "Resultados 2018",
-          url: "/assets/pdf/extension/informeCatedraAbierta2018.pdf",
+          url: "https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/extension/informeCatedraAbierta2018.pdf",
         },
       ],
     },

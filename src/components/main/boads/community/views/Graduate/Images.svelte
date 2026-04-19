@@ -8,16 +8,16 @@
     let currentImageTitle = "";
 
     const images2024 = [
-        "/assets/colacion/2024/egresados2024.jpg",
+        "https://eco.unca.edu.ar/assets2/users/paginaeco/colacion/2024/egresados2024.jpg",
     
     ];
 
     // Imágenes de colación 2025
     const images2025 = [
-        "/assets/colacion/2025/CMU-861.JPG",
-        "/assets/colacion/2025/CMU-177.JPG",
-        "/assets/colacion/2025/CMU-295.JPG",
-        "/assets/colacion/2025/CMU-307.JPG",
+        "https://eco.unca.edu.ar/assets2/users/paginaeco/colacion/2025/CMU-861.JPG",
+        "https://eco.unca.edu.ar/assets2/users/paginaeco/colacion/2025/CMU-177.JPG",
+        "https://eco.unca.edu.ar/assets2/users/paginaeco/colacion/2025/CMU-295.JPG",
+        "https://eco.unca.edu.ar/assets2/users/paginaeco/colacion/2025/CMU-307.JPG",
     ];
 
     function openLightbox(imageUrl, title) {

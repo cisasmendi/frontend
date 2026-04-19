@@ -1,7 +1,7 @@
 <script>
     // @ts-ignore
     import BoardLayout from "$BoardLayout";
-    let imageUrl = "/assets/logos/centro-estudiantes.png";
+    let imageUrl = "https://eco.unca.edu.ar/assets2/users/paginaeco/logos/centro-estudiantes.png";
 </script>
 
 

@@ -5,5 +5,5 @@
 </script>
 
 <BoardLayout {title}>
-    <PdfReader url="/assets/pdf/noDocentesConvenioFatun.pdf" />
+    <PdfReader url="https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/noDocentesConvenioFatun.pdf" />
 </BoardLayout>

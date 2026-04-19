@@ -1,7 +1,7 @@
 <script>
   export let title = "";
   import BoardLayout from "$BoardLayout";
-  let imageUrl = "/assets/logos/logo-campus2.png";
+  let imageUrl = "https://eco.unca.edu.ar/assets2/users/paginaeco/logos/logo-campus2.png";
 </script>
 
 <BoardLayout {title}>
@@ -85,7 +85,7 @@
     Unidad de Vinculación y Transferencia.
   </p>
   <img
-    src={"/assets/boards/investications/estructura.png"}
+    src={"https://eco.unca.edu.ar/assets2/users/paginaeco/boards/investications/estructura.png"}
     alt="Prototipo de imagen"
     class=" h-auto mb-4"
   />

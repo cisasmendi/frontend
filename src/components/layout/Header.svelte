@@ -4,7 +4,7 @@
    <div class="absolute inset-0">
     <video
       class="w-full h-full object-cover opacity-70"
-      src="/assets/videos/presentacion6.mp4"
+      src="https://eco.unca.edu.ar/assets2/users/paginaeco/videos/presentacion6.mp4"
       autoplay
       muted
       loop
@@ -14,7 +14,7 @@
 
   <div class="relative z-10 flex flex-col items-center md:flex-row md:items-center px-6 text-center md:text-left">
     <img
-      src="/assets/Sin título-W1.png"
+      src="https://eco.unca.edu.ar/assets2/users/paginaeco/Sin título-W1.png"
       alt="Logo de la Facultad de Ciencias Económicas y de Administración"
       class="w-32 h-auto"
     />

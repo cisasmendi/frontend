@@ -20,14 +20,22 @@
     {#if title == "Contacto"}
       <Contact />
     {/if}
-    {#if title == "Cursos de Posgrado"}
-      <ContinuingEducation {title} />
-    {/if}
-    {#if title == "Diplomaturas"}
-      <ContinuingEducation {title} />
-    {/if}
-    {#if title == "Talleres"}
-      <ContinuingEducation {title} />
+    {#if title == "Formación Continua"}
+      <div class="w-full p-4">
+        <h2 class="text-2xl font-bold text-[#6d0205]">Formación Continua</h2>
+        <br>
+        <div class="grid grid-cols-1 md:grid-cols-1 lg:grid-cols-1 gap-6">
+          <div class="flex flex-col">
+            <ContinuingEducation title="Cursos de Posgrado" />
+          </div>
+          <div class="flex flex-col">
+            <ContinuingEducation title="Diplomaturas" />
+          </div>
+          <div class="flex flex-col">
+            <ContinuingEducation title="Talleres"/>
+          </div>
+        </div>
+      </div>
     {/if}
   {/if}
 </main>

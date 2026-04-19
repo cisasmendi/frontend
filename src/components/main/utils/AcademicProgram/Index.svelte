@@ -36,7 +36,6 @@
     cost: "",
     managementstructure: "",
   };
-
 </script>
 
 <BoardLayout title={programInfo.title}>
@@ -58,8 +57,23 @@
         {#if programInfo?.resolution}
           Resolución Ministerial: {programInfo.resolution}<br />
         {/if}
-        {#if programInfo?.Link && programInfo?.labelLink}
-          <a class="text-xl font-semibold pt-4 text-blue-600" href={programInfo.Link} target="_blank">{programInfo.labelLink} "Click aquí"</a>
+
+        {#if programInfo?.newinfourgent}
+          <p
+            class="text-xl font-semibold pt-4 text-red-600 animate-pulse hover:scale-110 transition-transform duration-300"
+          >
+            {programInfo.newinfourgent}
+          </p>
+        {/if}
+
+        {#if programInfo?.Link && programInfo?.labelLink}<br />
+          <a
+            class="text-xl font-semibold pt-4 text-blue-600"
+            href={programInfo.Link}
+            target="_blank"
+          >
+            {programInfo.labelLink} "Click aquí"
+          </a>
         {/if}
       </h2>
     </div>
@@ -82,12 +96,12 @@
     {#if programInfo?.requirements?.length > 0}
       <Requirements requirements={programInfo.requirements} />
     {/if}
-    {#if programInfo?.registrations?.length > 0 || programInfo?.contact?.email || programInfo?.contact?.phone }
+    {#if programInfo?.registrations?.length > 0 || programInfo?.contact?.email || programInfo?.contact?.phone}
       <Registration {programInfo} />
     {/if}
 
     {#if programInfo?.downloads?.length > 0}
-      <Downloads programInfo={programInfo} />
+      <Downloads {programInfo} />
     {/if}
     {#if programInfo?.managementstructure}
       <ManagementStructure
@@ -104,6 +118,5 @@
       <slot name="plan"></slot>
       <br />
     </Plan>
-
   </div>
 </BoardLayout>

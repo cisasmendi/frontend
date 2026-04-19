@@ -83,13 +83,13 @@
   {#if title === "Quienes somos"}
     <QuienesSomos
       title={"Instituto de Investigación en Estado y Políticas Públicas"}
-      imageUrl={"/assets/logos/LogoIIEyPP.png"}
+      imageUrl={"https://eco.unca.edu.ar/assets2/users/paginaeco/logos/LogoIIEyPP.png"}
     />
   {/if}
   {#if title === "Cátedra abierta"}
     <CatedraAbierta
       title={"Instituto de Investigación en Estado y Políticas Públicas"}
-      imageUrl={"/assets/logos/LogoIIEyPP.png"}
+      imageUrl={"https://eco.unca.edu.ar/assets2/users/paginaeco/logos/LogoIIEyPP.png"}
     />
   {/if}
 

@@ -10,7 +10,7 @@
                 {
                     subtitle:
                         "Convocatoria a Elecciones y Constitución de la Junta Electoral",
-                    url: "/assets/pdf/consejeros/2025-2027/ResolucionCD-FCEyA-018-25.pdf",
+                    url: "https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/consejeros/2025-2027/ResolucionCD-FCEyA-018-25.pdf",
                 },
             ],
         },
@@ -19,43 +19,43 @@
             Files: [
                 {
                     subtitle: "Acta N° 1",
-                    url: "/assets/pdf/consejeros/2025-2027/ACTA N°1.pdf",
+                    url: "https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/consejeros/2025-2027/ACTA N°1.pdf",
                 },
                 {
                     subtitle: "Claustro Docentes",
-                    url: "/assets/pdf/consejeros/2025-2027/PADRON PROVISORIO - CLAUSTRO DOCENTE-.pdf",
+                    url: "https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/consejeros/2025-2027/PADRON PROVISORIO - CLAUSTRO DOCENTE-.pdf",
                 },
                 {
                     subtitle: "Claustro Nodocentes",
-                    url: "/assets/pdf/consejeros/2025-2027/PADRON PROVISORIO - CLAUSTRO NO DOCENTE -.pdf",
+                    url: "https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/consejeros/2025-2027/PADRON PROVISORIO - CLAUSTRO NO DOCENTE -.pdf",
                 },
                 {
                     subtitle: "Claustro Egresados",
-                    url: "/assets/pdf/consejeros/2025-2027/PADRON PROVISORIO - CLAUSTRO EGRESADOS.pdf",
+                    url: "https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/consejeros/2025-2027/PADRON PROVISORIO - CLAUSTRO EGRESADOS.pdf",
                 },
                 {
                     subtitle: "Claustro Estudiantes Contador Público",
-                    url: "/assets/pdf/consejeros/2025-2027/PADRON PROVISORIO - CLAUSTRO ESTUDIANTE - CPN- C.P.pdf",
+                    url: "https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/consejeros/2025-2027/PADRON PROVISORIO - CLAUSTRO ESTUDIANTE - CPN- C.P.pdf",
                 },
                 {
                     subtitle:
                         "Claustro Estudiantes Licenciatura en Administración",
-                    url: "/assets/pdf/consejeros/2025-2027/PADRON PROVISORIO - CLAUSTRO ESTUDIANTES - LICENCIATURA EN ADMINISTRACION.pdf",
+                    url: "https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/consejeros/2025-2027/PADRON PROVISORIO - CLAUSTRO ESTUDIANTES - LICENCIATURA EN ADMINISTRACION.pdf",
                 },
                 {
                     subtitle:
                         "Claustro Estudiantes Licenciatura en Gestión Pública",
-                    url: "/assets/pdf/consejeros/2025-2027/PADRON PROVISORIO - CLAUSTRO ESTUDIANTES - LICENCIATURA EN GESTION PUBLICA.pdf",
+                    url: "https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/consejeros/2025-2027/PADRON PROVISORIO - CLAUSTRO ESTUDIANTES - LICENCIATURA EN GESTION PUBLICA.pdf",
                 },
                 {
                     subtitle:
                         "Claustro Estudiantes Licenciatura en Gestión Educación Superior",
-                    url: "/assets/pdf/consejeros/2025-2027/PADRON PROVISORIO - CLAUSTRO ESTUDIANTES - LICENCIATURA EN GESTION DE  LA EDUCACION SUPERIOR.pdf",
+                    url: "https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/consejeros/2025-2027/PADRON PROVISORIO - CLAUSTRO ESTUDIANTES - LICENCIATURA EN GESTION DE  LA EDUCACION SUPERIOR.pdf",
                 },
                 {
                     subtitle:
                         "Claustro Estudiantes Tecnicatura en Administración de la Educación Superior",
-                    url: "/assets/pdf/consejeros/2025-2027/PADRON PROVISORIO - CLAUSTRO ESTUDIANTES - T.A.E.S.pdf",
+                    url: "https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/consejeros/2025-2027/PADRON PROVISORIO - CLAUSTRO ESTUDIANTES - T.A.E.S.pdf",
                 },
             ],
         },
@@ -64,44 +64,44 @@
             Files: [
                 {
                     subtitle: "Acta N° 2",
-                    url: "/assets/pdf/consejeros/2025-2027/ACTA N°2.pdf",
+                    url: "https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/consejeros/2025-2027/ACTA N°2.pdf",
                 },
                 {
                     subtitle: "Claustro Docentes",
-                    url: "/assets/pdf/consejeros/2025-2027/PADRÓN DEFINITIVO - CLAUSTRO DOCENTE.pdf",
+                    url: "https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/consejeros/2025-2027/PADRÓN DEFINITIVO - CLAUSTRO DOCENTE.pdf",
                 },
                 {
                     subtitle: "Claustro No Docentes",
-                    url: "/assets/pdf/consejeros/2025-2027/PADRÓN DEFINITIVO - CLAUSTRO NO DOCENTE.pdf",
+                    url: "https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/consejeros/2025-2027/PADRÓN DEFINITIVO - CLAUSTRO NO DOCENTE.pdf",
                 },
                 {
                     subtitle: "Claustro Egresados",
-                    url: "/assets/pdf/consejeros/2025-2027/PADRÓN DEFINITIVO - CLAUSTRO EGRESADOS.pdf",
+                    url: "https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/consejeros/2025-2027/PADRÓN DEFINITIVO - CLAUSTRO EGRESADOS.pdf",
                 },
 
                 {
                     subtitle: "Claustro Estudiantes Contador Público",
-                    url: "/assets/pdf/consejeros/2025-2027/PADRÓN DEFINITIVO - CLAUSTRO ESTUDIANTES- CONTADOR PÚBLICO NACIONAL - CONTADOR PÚBLICO.pdf",
+                    url: "https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/consejeros/2025-2027/PADRÓN DEFINITIVO - CLAUSTRO ESTUDIANTES- CONTADOR PÚBLICO NACIONAL - CONTADOR PÚBLICO.pdf",
                 },
                 {
                     subtitle:
                         "Claustro Estudiantes Licenciatura en Administración",
-                    url: "/assets/pdf/consejeros/2025-2027/PADRÓN DEFINITIVO - CLAUSTRO ESTUDIANTES - LICENCIATURA EN ADMINISTRACIÓN.pdf",
+                    url: "https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/consejeros/2025-2027/PADRÓN DEFINITIVO - CLAUSTRO ESTUDIANTES - LICENCIATURA EN ADMINISTRACIÓN.pdf",
                 },
                 {
                     subtitle:
                         "Claustro Estudiantes Licenciatura en Gestión Pública",
-                    url: "/assets/pdf/consejeros/2025-2027/PADRÓN DEFINITIVO - CLAUSTRO ESTUDIANTES  - LICENCIATURA EN GESTIÓN PÚBLICA.pdf",
+                    url: "https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/consejeros/2025-2027/PADRÓN DEFINITIVO - CLAUSTRO ESTUDIANTES  - LICENCIATURA EN GESTIÓN PÚBLICA.pdf",
                 },
                 {
                     subtitle:
                         "Claustro Estudiantes Licenciatura en Gestión Educación Superior",
-                    url: "/assets/pdf/consejeros/2025-2027/PADRÓN DEFINITIVO - CLAUSTRO ESTUDIANTES - LICENCIATURA EN GESTIÓN DE LA EDUCACIÓN SUPERIOR.pdf",
+                    url: "https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/consejeros/2025-2027/PADRÓN DEFINITIVO - CLAUSTRO ESTUDIANTES - LICENCIATURA EN GESTIÓN DE LA EDUCACIÓN SUPERIOR.pdf",
                 },
                 {
                     subtitle:
                         "Claustro Estudiantes Tecnicatura en Administración de la Educación Superior",
-                    url: "/assets/pdf/consejeros/2025-2027/PADRÓN DEFINITIVO - CLAUSTRO ESTUDIANTES -T.A.E.S.pdf",
+                    url: "https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/consejeros/2025-2027/PADRÓN DEFINITIVO - CLAUSTRO ESTUDIANTES -T.A.E.S.pdf",
                 },
             ],
         },
@@ -110,7 +110,7 @@
             Files: [
                 {
                     subtitle: "Acta N° 3",
-                    url: "/assets/pdf/consejeros/2025-2027/ACTA N°3..pdf",
+                    url: "https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/consejeros/2025-2027/ACTA N°3..pdf",
                 },
             ],
         },
@@ -120,23 +120,23 @@
             Files: [
                 {
                     subtitle: "Acta N° 4",
-                    url: "/assets/pdf/consejeros/2025-2027/ACTA N°4.pdf",
+                    url: "https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/consejeros/2025-2027/ACTA N°4.pdf",
                 },
                 {
                     subtitle: "Listado Docentes",
-                    url: "/assets/pdf/consejeros/2025-2027/CLAUSTRO DOCENTE.pdf",
+                    url: "https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/consejeros/2025-2027/CLAUSTRO DOCENTE.pdf",
                 },
                 {
                     subtitle: "Listado Estudiantes",
-                    url: "/assets/pdf/consejeros/2025-2027/CLAUSTRO ESTUDIANTES.pdf",
+                    url: "https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/consejeros/2025-2027/CLAUSTRO ESTUDIANTES.pdf",
                 },
                 {
                     subtitle: "Listado Nodocentes",
-                    url: "/assets/pdf/consejeros/2025-2027/CLAUSTRO NODOCENTE.pdf",
+                    url: "https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/consejeros/2025-2027/CLAUSTRO NODOCENTE.pdf",
                 },
                 {
                     subtitle: "Listado Egresados",
-                    url: "/assets/pdf/consejeros/2025-2027/CLAUSTRO EGRESADOS.pdf",
+                    url: "https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/consejeros/2025-2027/CLAUSTRO EGRESADOS.pdf",
                 },
             ],
         },
@@ -146,7 +146,7 @@
             Files: [
                 {
                     subtitle: "Acta N° 5",
-                    url: "/assets/pdf/consejeros/2025-2027/ACTA N°5.pdf",
+                    url: "https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/consejeros/2025-2027/ACTA N°5.pdf",
                 },
             ],
         },
@@ -156,7 +156,7 @@
             Files: [
                 {
                     subtitle: "Acta N° 6",
-                    url: "/assets/pdf/consejeros/2025-2027/ACTA N°6.pdf",
+                    url: "https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/consejeros/2025-2027/ACTA N°6.pdf",
                 },
             ],
         },
@@ -166,7 +166,7 @@
             Files: [
                 {
                     subtitle: "Acta N° 7",
-                    url: "/assets/pdf/consejeros/2025-2027/ACTA N°7.pdf",
+                    url: "https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/consejeros/2025-2027/ACTA N°7.pdf",
                 },
             ],
         },
@@ -175,7 +175,7 @@
             Files: [
                 {
                     subtitle: "Acta N° 8",
-                    url: "/assets/pdf/consejeros/2025-2027/ACTA N°8.pdf",
+                    url: "https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/consejeros/2025-2027/ACTA N°8.pdf",
                 },
             ],
         },
@@ -184,19 +184,19 @@
             Files: [
                 {
                     subtitle: "CLAUSTRO NODOCENTES",
-                    url: "/assets/pdf/consejeros/2025-2027/Claustro Nodocentes .pdf",
+                    url: "https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/consejeros/2025-2027/Claustro Nodocentes .pdf",
                 },
                 {
                     subtitle: "CLAUSTRO ESTUDIANTES",
-                    url: "/assets/pdf/consejeros/2025-2027/Claustro Estudiantes .pdf",
+                    url: "https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/consejeros/2025-2027/Claustro Estudiantes .pdf",
                 },
                  {
                     subtitle: "CLAUSTRO EGRESADOS",
-                    url: "/assets/pdf/consejeros/2025-2027/Claustro Egresados .pdf",
+                    url: "https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/consejeros/2025-2027/Claustro Egresados .pdf",
                 },
                  {
                     subtitle: "CLAUSTRO DOCENTES",
-                    url: "/assets/pdf/consejeros/2025-2027/Claustro Docentes .pdf",
+                    url: "https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/consejeros/2025-2027/Claustro Docentes .pdf",
                 },
             ],
         },

@@ -1,8 +1,8 @@
 <script>
   import Accordion from "$utilsMain/Accordion.svelte";
 
-  let qrCode = "/assets/posgrado/Cursos de Posgrado/19_qr.png";
-  let imageUrl = null; //"/assets/posgrado/Cursos de Posgrado/19.jpg";
+  let qrCode = "https://eco.unca.edu.ar/assets2/users/paginaeco/posgrado/Cursos de Posgrado/19_qr.png";
+
   export const courseTitle = "AUDITORÍA Y CONTROL FISCAL";
   let startDate = "6 de marzo de 2026";
   let modality = "Híbrida";
@@ -62,7 +62,7 @@
 </script>
 
 <Accordion title={courseTitle} isOpen={open}>
-  <div slot="content">
+  <div slot="content" class="course-content">
     <h1>{courseTitle}</h1>
     <!--
     <div class="animate-slide-in-up">
@@ -93,9 +93,10 @@
     <p>{objectivesGeneral}</p>
     <br />
     <h3>Específicos</h3>
-    <ul>
-      {#each objectivesSpecific as objective}<p>- {objective}</p>
-        <br />{/each}
+    <ul class="objective-list">
+      {#each objectivesSpecific as objective}
+        <li>{objective}</li>
+      {/each}
     </ul>
 
     <h2>Cronograma</h2>
@@ -120,24 +121,20 @@
     <p>{evaluationModality}</p>
 
     <h2>Valor del Curso</h2>
-    <div style="padding-left: 2rem;">
-      <p>Valor: $80.000 (pago único)</p>
-      <p>Forma de Pago: {cost.paymentMethod}</p>
-      <p><strong>Datos Bancarios:</strong></p>
-      <p>Alias: {cost.bankDetails.alias}</p>
-      <p>Número de cuenta: {cost.bankDetails.accountNumber}</p>
-      <p>CBU: {cost.bankDetails.cbu}</p>
-      <p>Nombre: {cost.bankDetails.name}</p>
-      <p>CUIT: {cost.bankDetails.cuit}</p>
-      <p>
-        Enviar comprobante a <a
-          href="mailto:formacioncontinua@eco.unca.edu.ar"
-          style="color:#007bff;text-decoration:none;"
-          >formacioncontinua@eco.unca.edu.ar</a
-        >
-        detallando Apellido y nombre del alumno, nombre del curso a inscribirse.
-      </p>
-    </div>
+    <p><strong>Valor:</strong> $80.000 (pago único)</p>
+    <p><strong>Forma de Pago:</strong> {cost.paymentMethod}</p>
+    <p><strong>Nombre:</strong> {cost.bankDetails.name}</p>
+    <p><strong>CUIT:</strong> {cost.bankDetails.cuit}</p>
+    <p><strong>Número de cuenta:</strong> {cost.bankDetails.accountNumber}</p>
+    <p><strong>Alias:</strong> {cost.bankDetails.alias}</p>
+    <p><strong>CBU:</strong> {cost.bankDetails.cbu}</p>
+    <p>
+      <strong>Envío de comprobante de pago:</strong>
+      <a href="mailto:formacioncontinua@eco.unca.edu.ar"
+        >formacioncontinua@eco.unca.edu.ar</a
+      >
+    </p>
+    <p>Detallando Apellido y nombre del alumno, nombre del curso a inscribirse.</p>
 
     <h2>Inscripciones</h2>
     <a href={contacts.inscriptionLink} target="_blank" style="color:blue"
@@ -145,7 +142,7 @@
     >
 
     <div class="animate-slide-in-up">
-      <img src={qrCode} alt="Código QR de inscripción" />
+      <img src={qrCode} alt="Código QR de inscripción" class="qr-image" />
     </div>
 
     <br />
@@ -158,6 +155,15 @@
 </Accordion>
 
 <style>
+   .course-content {
+    font-size: 1rem;
+  }
+
+  .course-content p,
+  .course-content li {
+    font-size: 1rem;
+  }
+
   h1 {
     font-weight: 600;
     font-family: "Merriweather", serif;
@@ -190,5 +196,21 @@
 
   .professor-info p {
     margin: 0 0 0;
+  }
+
+  .objective-list {
+    list-style: disc;
+    padding-left: 1.25rem;
+    margin: 0.5rem 0;
+  }
+
+  .objective-list li {
+    margin-bottom: 0.35rem;
+  }
+
+  .qr-image {
+    width: 180px;
+    max-width: 100%;
+    height: auto;
   }
 </style>

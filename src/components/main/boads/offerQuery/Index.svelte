@@ -3,9 +3,16 @@
     import Offer from "../offer/Index.svelte";
     import Postgraduate from "../postgraduate/views/offer/Index.svelte";
     import ContinuingEducation from "../postgraduate/views/ContinuingEducation/IndexQuery.svelte";
+    import { title } from "../offer/stores/offerstore";
 
     export let id;
     let search = undefined;
+
+    const list_offers = [
+        { id: "grado", title: "Grado" },
+        { id: "ciclo-complementacion", title: "Ciclo de Complementación" },
+        { id: "pre-grado", title: "Pre-grado" },
+    ];
 
     const list_id_offer = [
         { id: "cpn", title: "Contador Público Nacional" },
@@ -72,9 +79,9 @@
 
     const list_id_taller = [
         {
-            id: "tij",
-            modulo: 10,
-            courseTitle: "Taller de Interpretación Jurisprudencial",
+            id: "tesis",
+            modulo: 11,
+            courseTitle: "Taller de Tesis",
             title: "Talleres",
         },
     ];
@@ -156,12 +163,38 @@
             courseTitle: "AUDITORÍA Y CONTROL FISCAL",
             title: "Cursos de Posgrado",
         },
-
+        {
+            id: "exposicion-analisis-proyeccion-informacion-contable",
+            modulo: 20,
+            courseTitle:
+                "EXPOSICIÓN, ANÁLISIS Y PROYECCIÓN DE LA INFORMACIÓN CONTABLE",
+            title: "Cursos de Posgrado",
+        },
+        {
+            id: "historia-estructura-economica-regional",
+            modulo: 21,
+            courseTitle: "HISTORIA Y ESTRUCTURA ECONÓMICA REGIONAL",
+            title: "Cursos de Posgrado",
+        },
+        {
+            id: "programa-ejecutivo-comercio-exterior",
+            modulo: 22,
+            courseTitle: "PROGRAMA EJECUTIVO EN COMERCIO EXTERIOR",
+            title: "Cursos de Posgrado",
+        },
     ];
 
     onMount(() => {
         if (id !== undefined) {
             id = id.toLowerCase();
+            let category_ = list_offers.find((element) => element.id === id);
+
+            if (category_ !== undefined) {
+                selectedCategory = category_.title;
+                showOffer = true;
+                return;
+            }
+
             let id_ = list_id_offer.find((element) => element.id === id);
 
             if (id_ !== undefined) {
@@ -200,10 +233,11 @@
     let showOffer = false;
     let showPostgraduate = false;
     let showContinuingEducation = false;
+    let selectedCategory = undefined;
 </script>
 
 {#if showOffer}
-    <Offer {search} />
+    <Offer {search} category={selectedCategory} />
 {/if}
 {#if showPostgraduate}
     <Postgraduate {search} />

@@ -6,7 +6,7 @@
 <div class="float-right w-full md:w-1/2 ml-0 md:ml-6 mb-6">
   <img
     class="w-full h-auto object-cover rounded-2xl shadow-2xl transform transition-all duration-300 hover:scale-105 hover:shadow-3xl border-2 border-white/20 backdrop-blur-sm"
-    src="/assets/imagenes/CMU_8020.webp"
+    src="https://eco.unca.edu.ar/assets2/users/paginaeco/imagenes/CMU_8020.webp"
     alt="Imagen artística de la facultad"
     loading="lazy"
   />

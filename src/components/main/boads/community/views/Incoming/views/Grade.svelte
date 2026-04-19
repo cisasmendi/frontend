@@ -112,7 +112,7 @@
 <h3 class="text-xl font-semibold pt-4 text-[#6d0205]">
     Programa ingreso 2026 <a
         class="text-xl font-semibold pt-4 text-blue-600"
-        href="/assets/pdf/ingresantes/Programas Ingreso 2026.pdf"
+        href="https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/ingresantes/Programas Ingreso 2026.pdf"
         target="_blank"
     >
         Descargar programa
@@ -122,7 +122,7 @@
     <li>
         Matemáticas | <strong
             ><a
-                href="/assets/pdf/ingresantes/programa-matematicas-2025.pdf"
+                href="https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/ingresantes/programa-matematicas-2025.pdf"
                 class="text-blue-600 s-HL7iPF8fmwQi"
                 target="_blank">Ver Programa</a
             ></strong
@@ -131,7 +131,7 @@
     <li>
         Contabilidad | <strong>
             <a
-                href="/assets/pdf/ingresantes/programa-contabilidad-2025.pdf"
+                href="https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/ingresantes/programa-contabilidad-2025.pdf"
                 class="text-blue-600 s-HL7iPF8fmwQi"
                 target="_blank">Ver Programa</a
             ></strong

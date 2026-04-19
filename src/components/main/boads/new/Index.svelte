@@ -159,7 +159,7 @@
                                     <!-- svelte-ignore a11y-img-redundant-alt -->
                                     <img
                                         class="w-full h-48 object-cover mb-4"
-                                        src="/assets/logos/logo_FCEyA_1-01.png"
+                                        src="https://eco.unca.edu.ar/assets2/users/paginaeco/logos/logo_FCEyA_1-01.png"
                                         alt="Post image"
                                     />
                                 {/if}

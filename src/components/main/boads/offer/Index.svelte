@@ -32,6 +32,7 @@
   };
 
   export let search;
+  export let category = undefined;
 
   onMount(async () => {
     if (search !== undefined) {
@@ -48,7 +49,12 @@
         "Contador Público Nacional",
         "Contador Público",
         "Licenciatura en Administración",
-        "Licenciatura en Administración 2022",
+        "Licenciatura en Administración 2022"
+      ],
+    },
+     {
+      title: "Ciclo de Complementación",
+      submenu: [   
         "Licenciatura en Gestión Pública",
         "Licenciatura en Gestión de la Educación Superior",
       ],
@@ -63,6 +69,45 @@
       ],
     },
   ];
+
+  function normalizeText(value) {
+    if (!value) return "";
+    return value
+      .toString()
+      .normalize("NFD")
+      .replace(/[\u0300-\u036f]/g, "")
+      .toLowerCase()
+      .trim();
+  }
+
+  function toSlug(value) {
+    return normalizeText(value)
+      .replace(/\s+/g, "-")
+      .replace(/[^a-z0-9-]/g, "");
+  }
+
+  function resolveCategoryTitle(value) {
+    if (!value) return undefined;
+
+    const normalizedValue = normalizeText(value);
+    const slugValue = toSlug(value);
+    const item = menuItems.find((element) => {
+      const normalizedTitle = normalizeText(element.title);
+      const slugTitle = toSlug(element.title);
+      return normalizedTitle === normalizedValue || slugTitle === slugValue;
+    });
+
+    return item ? item.title : undefined;
+  }
+
+  function getFilteredMenuItems() {
+    const titleCategory = resolveCategoryTitle(category);
+    if (!titleCategory) {
+      return menuItems;
+    }
+
+    return menuItems.filter((item) => item.title === titleCategory);
+  }
 
   let options = [
     {
@@ -105,6 +150,28 @@
     },
   ];
 
+  function getFilteredOptions() {
+    const filteredMenus = getFilteredMenuItems();
+    if (filteredMenus.length === menuItems.length) {
+      return options;
+    }
+
+    const allowed = filteredMenus[0]?.submenu ?? [];
+    return options.filter((item) => allowed.includes(item.id));
+  }
+
+  function ensureValidTitleForCategory() {
+    const filteredMenus = getFilteredMenuItems();
+    if (filteredMenus.length === 0) return;
+
+    const allowed = filteredMenus[0].submenu;
+    if (allowed.length === 0) return;
+
+    if (!allowed.includes($title)) {
+      $title = allowed[0];
+    }
+  }
+
   async function loadProgram(programName) {
     const programKey = `./views/grade/${programName}.json`;
     const programKeyPregrade = `./views/pregrade/${programName}.json`;
@@ -135,8 +202,15 @@
   }
 
   async function reload(title) {
-    const valor = options.find((Element) => Element.id === title);
+    const currentOptions = getFilteredOptions();
+    const valor = currentOptions.find((Element) => Element.id === title);
     return valor;
+  }
+
+  $: if (category !== undefined) {
+    ensureValidTitleForCategory();
+    promesa = loadProgram($title);
+    selected = reload($title);
   }
 
   let promesa = loadProgram($title);
@@ -144,7 +218,11 @@
 </script>
 
 <main class="mx-auto flex flex-col lg:flex-row w-full lg:w-auto">
-  <Menu {menuItems} on:click={handleClick} />
+  <Menu
+    menuItems={getFilteredMenuItems()}
+    expand={Boolean(resolveCategoryTitle(category))}
+    on:click={handleClick}
+  />
   {#await promesa}
     <p>Cargando...</p>
   {:then programInfo}

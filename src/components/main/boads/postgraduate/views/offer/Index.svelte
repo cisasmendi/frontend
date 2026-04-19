@@ -55,10 +55,7 @@
 
   let menuItems = [
     "Contacto",
-    {
-      title: "Formación Continua",
-      submenu: ["Cursos de Posgrado", "Diplomaturas", "Talleres"],
-    },
+     "Formación Continua",     
     Posgrado,
   ];
 

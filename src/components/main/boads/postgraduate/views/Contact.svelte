@@ -3,7 +3,7 @@
     export let title = "";
 </script>
 
-<BoardLayout {title} imageUrl="/assets/otros/postgrado.jpg">
+<BoardLayout {title} imageUrl="https://eco.unca.edu.ar/assets2/users/paginaeco/otros/postgrado.jpg">
     <h2 class="text-2xl pt-2 pb-2 font-semibold text-[#6d0205]">
         Secretaría de Posgrado · FCEyA UNCA
     </h2>

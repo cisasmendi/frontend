@@ -1,9 +1,9 @@
 <script>
     export let title = "";
     import BoardLayout from "$BoardLayout";
-    let imageUrl = "/assets/logos/IIEF.png";
-    let imageUrl2 = "/assets/imagenes/IIEF.jpg";
-    let imageUrl3 = "/assets/logos/logo-campus2.png";
+    let imageUrl = "https://eco.unca.edu.ar/assets2/users/paginaeco/logos/IIEF.png";
+    let imageUrl2 = "https://eco.unca.edu.ar/assets2/users/paginaeco/imagenes/IIEF.jpg";
+    let imageUrl3 = "https://eco.unca.edu.ar/assets2/users/paginaeco/logos/logo-campus2.png";
     import Lightbox from "$utilsMain/Lightbox.svelte";
 
     import { onMount } from "svelte";
@@ -30,7 +30,7 @@
         }
     });
 
-    const urlImage = "/assets/ingreso/banner2026_2.jpg";
+    const urlImage = "https://eco.unca.edu.ar/assets2/users/paginaeco/ingreso/banner2026_2.jpg";
 
     function openLightbox() {
         if (!showBanner) {

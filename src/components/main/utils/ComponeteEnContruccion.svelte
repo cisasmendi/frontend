@@ -1,6 +1,6 @@
 <script>
   export let title = "";
-  export let imageUrl = "/assets/Sin título-W1.png";
+  export let imageUrl = "https://eco.unca.edu.ar/assets2/users/paginaeco/Sin título-W1.png";
   let currentYear = new Date().getFullYear();
 </script>
 

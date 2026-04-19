@@ -9,7 +9,7 @@
             Files: [
                 {
                     subtitle: "Convocatoria Elecciones Consejeros 2023-2025",
-                    url: "/assets/pdf/consejeros/ResolucionCD-FCEyA-010-23.pdf",
+                    url: "https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/consejeros/ResolucionCD-FCEyA-010-23.pdf",
                 },
             ],
         },
@@ -18,19 +18,19 @@
             Files: [
                 {
                     subtitle: "Proclamación Docentes",
-                    url: "/assets/pdf/consejeros/proclamaDocentes.pdf",
+                    url: "https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/consejeros/proclamaDocentes.pdf",
                 },
                 {
                     subtitle: "Proclamación Estudiantes",
-                    url: "/assets/pdf/consejeros/proclamaEstudiantes.pdf",
+                    url: "https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/consejeros/proclamaEstudiantes.pdf",
                 },
                 {
                     subtitle: "Proclamación No Docentes",
-                    url: "/assets/pdf/consejeros/proclamaNoDocente.pdf",
+                    url: "https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/consejeros/proclamaNoDocente.pdf",
                 },
                 {
                     subtitle: "Proclamación Egresados",
-                    url: "/assets/pdf/consejeros/proclamaEgresados.pdf",
+                    url: "https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/consejeros/proclamaEgresados.pdf",
                 },
             ],
         },
@@ -39,7 +39,7 @@
             Files: [
                 {
                     subtitle: "Acta N° 6",
-                    url: "/assets/pdf/consejeros/ActaN6.pdf",
+                    url: "https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/consejeros/ActaN6.pdf",
                 },
             ],
         },
@@ -48,7 +48,7 @@
             Files: [
                 {
                     subtitle: "Acta N° 5",
-                    url: "/assets/pdf/consejeros/ActaN5.pdf",
+                    url: "https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/consejeros/ActaN5.pdf",
                 },
             ],
         },
@@ -57,27 +57,27 @@
             Files: [
                 {
                     subtitle: "Acta N° 4",
-                    url: "/assets/pdf/consejeros/ActaN4.pdf",
+                    url: "https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/consejeros/ActaN4.pdf",
                 },
                 {
                     subtitle: "Acta N° 3",
-                    url: "/assets/pdf/consejeros/ActaN3.pdf",
+                    url: "https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/consejeros/ActaN3.pdf",
                 },
                 {
                     subtitle: "Listado Docentes",
-                    url: "/assets/pdf/consejeros/listaDocentes.pdf",
+                    url: "https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/consejeros/listaDocentes.pdf",
                 },
                 {
                     subtitle: "Listado Estudiantes",
-                    url: "/assets/pdf/consejeros/listaEstudiantes.pdf",
+                    url: "https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/consejeros/listaEstudiantes.pdf",
                 },
                 {
                     subtitle: "Listado No Docentes",
-                    url: "/assets/pdf/consejeros/listaNoDocentes.pdf",
+                    url: "https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/consejeros/listaNoDocentes.pdf",
                 },
                 {
                     subtitle: "Listado Egresados",
-                    url: "/assets/pdf/consejeros/listaEgresados.pdf",
+                    url: "https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/consejeros/listaEgresados.pdf",
                 },
             ],
         },
@@ -86,43 +86,43 @@
             Files: [
                 {
                     subtitle: "Acta N° 2",
-                    url: "/assets/pdf/consejeros/ActaN2.pdf",
+                    url: "https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/consejeros/ActaN2.pdf",
                 },
                 {
                     subtitle: "Claustro Docentes",
-                    url: "/assets/pdf/consejeros/claustroDocentes.pdf",
+                    url: "https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/consejeros/claustroDocentes.pdf",
                 },
                 {
                     subtitle: "Claustro Estudiantes Contador Público",
-                    url: "/assets/pdf/consejeros/claustroEstudiantesCP.pdf",
+                    url: "https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/consejeros/claustroEstudiantesCP.pdf",
                 },
                 {
                     subtitle:
                         "Claustro Estudiantes Licenciatura en Administración",
-                    url: "/assets/pdf/consejeros/claustroEstudiantesLADM.pdf",
+                    url: "https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/consejeros/claustroEstudiantesLADM.pdf",
                 },
                 {
                     subtitle:
                         "Claustro Estudiantes Licenciatura en Gestión Pública",
-                    url: "/assets/pdf/consejeros/claustroEstudiantesLGP.pdf",
+                    url: "https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/consejeros/claustroEstudiantesLGP.pdf",
                 },
                 {
                     subtitle:
                         "Claustro Estudiantes Licenciatura en Gestión Educación Superior",
-                    url: "/assets/pdf/consejeros/claustroEstudiantesLGES.pdf",
+                    url: "https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/consejeros/claustroEstudiantesLGES.pdf",
                 },
                 {
                     subtitle:
                         "Claustro Estudiantes Tecnicatura en Administración de la Educación Superior",
-                    url: "/assets/pdf/consejeros/claustroEstudiantesTAES.pdf",
+                    url: "https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/consejeros/claustroEstudiantesTAES.pdf",
                 },
                 {
                     subtitle: "Claustro No Docentes",
-                    url: "/assets/pdf/consejeros/claustroNoDocentes.pdf",
+                    url: "https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/consejeros/claustroNoDocentes.pdf",
                 },
                 {
                     subtitle: "Claustro Egresados",
-                    url: "/assets/pdf/consejeros/claustroEgresados.pdf",
+                    url: "https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/consejeros/claustroEgresados.pdf",
                 },
             ],
         },
@@ -131,43 +131,43 @@
             Files: [
                 {
                     subtitle: "Acta N° 1",
-                    url: "/assets/pdf/consejeros/01-actaN1.pdf",
+                    url: "https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/consejeros/01-actaN1.pdf",
                 },
                 {
                     subtitle: "Claustro Docentes",
-                    url: "/assets/pdf/consejeros/02-claustroDocentes.pdf",
+                    url: "https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/consejeros/02-claustroDocentes.pdf",
                 },
                 {
                     subtitle: "Claustro Estudiantes Contador Público",
-                    url: "/assets/pdf/consejeros/03-claustroEstudiantesCP.pdf",
+                    url: "https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/consejeros/03-claustroEstudiantesCP.pdf",
                 },
                 {
                     subtitle:
                         "Claustro Estudiantes Licenciatura en Administración",
-                    url: "/assets/pdf/consejeros/04-claustroEstudiantesLADM.pdf",
+                    url: "https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/consejeros/04-claustroEstudiantesLADM.pdf",
                 },
                 {
                     subtitle:
                         "Claustro Estudiantes Licenciatura en Gestión Pública",
-                    url: "/assets/pdf/consejeros/05-claustroEstudiantesLGP.pdf",
+                    url: "https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/consejeros/05-claustroEstudiantesLGP.pdf",
                 },
                 {
                     subtitle:
                         "Claustro Estudiantes Licenciatura en Gestión Educación Superior",
-                    url: "/assets/pdf/consejeros/06-claustroEstudiantesLGES.pdf",
+                    url: "https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/consejeros/06-claustroEstudiantesLGES.pdf",
                 },
                 {
                     subtitle:
                         "Claustro Estudiantes Tecnicatura en Administración de la Educación Superior",
-                    url: "/assets/pdf/consejeros/07-claustroEstudiantesTAES.pdf",
+                    url: "https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/consejeros/07-claustroEstudiantesTAES.pdf",
                 },
                 {
                     subtitle: "Claustro No Docentes",
-                    url: "/assets/pdf/consejeros/08-claustroNoDocente.pdf",
+                    url: "https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/consejeros/08-claustroNoDocente.pdf",
                 },
                 {
                     subtitle: "Claustro Egresados",
-                    url: "/assets/pdf/consejeros/09-claustroEgresados.pdf",
+                    url: "https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/consejeros/09-claustroEgresados.pdf",
                 },
             ],
         },

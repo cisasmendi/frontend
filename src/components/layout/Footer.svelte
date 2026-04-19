@@ -7,7 +7,7 @@
         <div class="logo-unca mb-4">
           <img
             class="logo-unca_img mx-auto lg:mx-0"
-            src="/assets/logos/logo unca2.png"
+            src="https://eco.unca.edu.ar/assets2/users/paginaeco/logos/logo unca2.png"
             alt="Logo principal de la Universidad Nacional de Catamarca"
           />
         </div>
@@ -26,7 +26,7 @@
         <div class="video-logo">
           <a href="https://www.google.com/maps?q=Facultad+de+Ciencias+Econ%C3%B3micas+y+de+Administraci%C3%B3n,+UNCa,+San+Fernando+del+Valle+de+Catamarca,+Argentina" target="_blank" rel="noopener noreferrer">
             <video class="w-full h-auto rounded-lg" autoplay loop muted playsinline>
-              <source src="/assets/videos/facultade economia.mp4" type="video/mp4" />
+              <source src="https://eco.unca.edu.ar/assets2/users/paginaeco/videos/facultade economia.mp4" type="video/mp4" />
               Tu navegador no soporta el formato de video.
             </video>
           </a>
@@ -34,6 +34,6 @@
       </div>
     </div>
   
-    <p class="text-center font-bold mt-8">&copy; 2024 Facultad de Ciencias Económicas y de Administración. Todos los derechos reservados.</p>
+    <p class="text-center font-bold mt-8">&copy; 2024 Facultad de Ciencias Económicas y de Administración. Todos los derechos reservados. v2.5</p>
   </footer>
   

@@ -8,15 +8,15 @@
         {
             href: `${host}/community/HC`,
             target: "_self",
-            src: "/assets/shortcuts/Grises/icono-horarios-clase-gris.png",
+            src: "https://eco.unca.edu.ar/assets2/users/paginaeco/shortcuts/Grises/icono-horarios-clase-gris.png",
             alt: "Horarios de clase",
             text: "Horarios de clase",
             class: "w-16 h-16 mb-2",
         },
         {
-            href: `${host}/assets/pdf/calendarioacademico2026.pdf`,
+            href: `${host}https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/calendarioacademico2026.pdf`,
             target: "_blank",
-            src: "/assets/shortcuts/Grises/CalendarioAcademico.png",
+            src: "https://eco.unca.edu.ar/assets2/users/paginaeco/shortcuts/Grises/CalendarioAcademico.png",
             alt: "Calendario Académico",
             text: "Calendario Académico",
             class: "w-16 h-16 mb-2",
@@ -24,7 +24,7 @@
         {
             href: `${host}/community/turnos`,
             target: "_self",
-            src: "/assets/shortcuts/Grises/icono-examenes-gris.png",
+            src: "https://eco.unca.edu.ar/assets2/users/paginaeco/shortcuts/Grises/icono-examenes-gris.png",
             alt: "Fechas de exámenes",
             text: "Fechas de exámenes",
             class: "w-16 h-16 mb-2",
@@ -32,7 +32,7 @@
         {
             href: `${host}/postgraduate`,
             target: "_self",
-            src: "/assets/shortcuts/Grises/Cursos-Diplomaturas.png",
+            src: "https://eco.unca.edu.ar/assets2/users/paginaeco/shortcuts/Grises/Cursos-Diplomaturas.png",
             alt: "Cursos y diplomaturas",
             text: "Cursos y diplomaturas",
             class: "w-16 h-16 mb-2",
@@ -40,15 +40,15 @@
         {
             href: `${host}/library`,
             target: "_self",
-            src: "/assets/shortcuts/Grises/Biblioteca.png",
+            src: "https://eco.unca.edu.ar/assets2/users/paginaeco/shortcuts/Grises/Biblioteca.png",
             alt: "Biblioteca",
             text: "Biblioteca",
             class: "w-16 h-16 mb-2",
         },
         {
-            href: `${host}/assets/pdf/ResMinisterial3400-2017EstandaresAcreditacionCarreraCPN.pdf`,
+            href: `${host}https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/ResMinisterial3400-2017EstandaresAcreditacionCarreraCPN.pdf`,
             target: "_blank",
-            src: "/assets/shortcuts/Grises/CONEAU.png",
+            src: "https://eco.unca.edu.ar/assets2/users/paginaeco/shortcuts/Grises/CONEAU.png",
             alt: "CONEAU",
             text: "CONEAU",
             class: "w-16 h-16 mb-2",
@@ -57,7 +57,7 @@
         {
             href: "http://cvar.sicytar.mincyt.gob.ar/auth/index.jsp",
             target: "_blank",
-            src: "/assets/shortcuts/Grises/SICYTar.png",
+            src: "https://eco.unca.edu.ar/assets2/users/paginaeco/shortcuts/Grises/SICYTar.png",
             alt: "SICYTar",
             text: "SICYTar",
             class: "w-16 h-16 mb-2",
@@ -65,7 +65,7 @@
         {
             href: "https://guarani.unca.edu.ar/",
             target: "_blank",
-            src: "/assets/shortcuts/Grises/SiuGuarani.png",
+            src: "https://eco.unca.edu.ar/assets2/users/paginaeco/shortcuts/Grises/SiuGuarani.png",
             alt: "Siu Guaraní",
             text: "Siu Guaraní",
             class: "w-16 h-16 mb-2",
@@ -73,7 +73,7 @@
         {
             href: "https://www.economicasvirtual.edu.ar/",
             target: "_blank",
-            src: "/assets/shortcuts/Grises/Ecovirtual.png",
+            src: "https://eco.unca.edu.ar/assets2/users/paginaeco/shortcuts/Grises/Ecovirtual.png",
             alt: "Económicas Virtual",
             text: "Económicas Virtual",
             class: "w-16 h-16 mb-2",
@@ -81,7 +81,7 @@
         {
             href: "https://ecampus.economicasvirtual.edu.ar/",
             target: "_blank",
-            src: "/assets/shortcuts/Grises/Educativa.png",
+            src: "https://eco.unca.edu.ar/assets2/users/paginaeco/shortcuts/Grises/Educativa.png",
             alt: "E-ducativa",
             text: "E-ducativa",
             class: "w-16 h-16 mb-2",
@@ -89,7 +89,7 @@
         {
             href: "http://190.221.123.226/fceaweb/",
             target: "_blank",
-            src: "/assets/shortcuts/Grises/INTERFILE.png",
+            src: "https://eco.unca.edu.ar/assets2/users/paginaeco/shortcuts/Grises/INTERFILE.png",
             alt: "InterFile",
             text: "InterFile",
             class: " w-16 h-16 mb-2",
@@ -97,7 +97,7 @@
         /*   {
             href: `${host}/content/tramites.php`,
             target: "_self",
-            src: "/assets/shortcuts/Grises/Tramites.png",
+            src: "https://eco.unca.edu.ar/assets2/users/paginaeco/shortcuts/Grises/Tramites.png",
             alt: "Trámites",
             text: "Trámites",
             class: "w-16 h-16 mb-2",

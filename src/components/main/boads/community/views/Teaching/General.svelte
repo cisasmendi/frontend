@@ -11,7 +11,7 @@
         <li class="pt-2">
             <a
                 class="text-xl font-semibold pt-4"
-                href="/assets/pdf/calendarioacademico2026.pdf"
+                href="https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/calendarioacademico2026.pdf"
                 target="_blank"
             >
                 Calendario Académico
@@ -21,7 +21,7 @@
         <li class="pt-2">
             <a
                 class="text-xl font-semibold pt-4"
-                href="/assets/pdf/rendicionViatico.pdf"
+                href="https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/rendicionViatico.pdf"
                 target="_blank"
             >
                 Rendición de Viáticos
@@ -30,7 +30,7 @@
         <li class="pt-2">
             <a
                 class="text-xl font-semibold pt-4"
-                href="/assets/pdf/decreto1246.pdf"
+                href="https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/decreto1246.pdf"
                 target="_blank"
             >
                 Decreto 1246
@@ -39,7 +39,7 @@
         <li class="pt-2">
             <a
                 class="text-xl font-semibold pt-4"
-                href="/assets/pdf/DeclaracionJuradadeCargosyAct.pdf"
+                href="https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/DeclaracionJuradadeCargosyAct.pdf"
                 target="_blank"
             >
                 Declaración Jurada Cargos
@@ -52,7 +52,7 @@
         <li class="pt-2">
             <a
                 class="text-xl font-semibold pt-4"
-                href="/assets/pdf/docentesConvenioColectivo.pdf"
+                href="https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/docentesConvenioColectivo.pdf"
                 target="_blank"
                 >Convenio Colectivo de Trabajo
             </a>
@@ -60,7 +60,7 @@
         <li class="pt-2">
             <a
                 class="text-xl font-semibold pt-4"
-                href="/assets/pdf/docentesReglamentoCarreras.pdf"
+                href="https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/docentesReglamentoCarreras.pdf"
                 target="_blank"
                 >Reglamento Carrera Docente
             </a>

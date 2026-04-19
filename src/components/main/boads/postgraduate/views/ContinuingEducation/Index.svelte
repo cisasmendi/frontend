@@ -68,6 +68,7 @@
             const loadedComponents = await Promise.all(
                 Object.keys(modules).map(async (path) => {
                     const module = await modules[path]();
+                    // @ts-ignore
                     return module.default;
                 }),
             );
@@ -84,18 +85,20 @@
     let props = {};
 </script>
 
-<div class="w-full p-4">
-    <h2 class="text-2xl font-semibold text-[#6d0205] pt-4">{title}</h2>
+<div class="w-full">
+    <h3 class="text-xl font-semibold text-[#6d0205] mb-3 pb-2 border-b-2 border-[#6d0205]">{title}</h3>
     {#if $isLoading}
         <!-- Mostrar un mensaje o un spinner mientras se cargan los componentes -->
-        <div>Cargando componentes...</div>
+        <div class="text-sm text-gray-500">Cargando...</div>
     {:else if $error}
         <!-- Mostrar mensaje de error si algo sale mal -->
-        <div class="text-red-500">Error: {$error}</div>
+        <div class="text-red-500 text-sm">Error: {$error}</div>
     {:else}
         <!-- Mostrar los componentes cargados -->
-        {#each $components as Component}
-            <svelte:component this={Component} {...props} />
-        {/each}
+        <div class="space-y-2">
+            {#each $components as Component}
+                <svelte:component this={Component} {...props} />
+            {/each}
+        </div>
     {/if}
 </div>

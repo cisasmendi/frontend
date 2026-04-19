@@ -30,7 +30,7 @@
         <div class="vermas-carrera">
           <a
             target="_blank"
-            href="/assets/pdf/extension/ProgramaVinculacion-FCEyA-UCC-Diputados.pdf"
+            href="https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/extension/ProgramaVinculacion-FCEyA-UCC-Diputados.pdf"
             >Descargar PDF</a
           >
         </div>
@@ -50,7 +50,7 @@
         <div class="vermas-carrera">
           <a
             target="_blank"
-            href="/assets/pdf/extension/coopAncianos/cooperadoraHogarAncianos.pdf"
+            href="https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/extension/coopAncianos/cooperadoraHogarAncianos.pdf"
             >Descargar PDF</a
           >
         </div>
@@ -65,7 +65,7 @@
         </div>
         <div class="plan-grado">Período: 2018</div>
         <div class="vermas-carrera">
-          <a target="_blank" href="/assets/pdf/extension/rutaTelar/rutaTelar.pdf"
+          <a target="_blank" href="https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/extension/rutaTelar/rutaTelar.pdf"
             >Descargar PDF</a
           >
         </div>
@@ -82,7 +82,7 @@
         <div class="vermas-carrera">
           <a
             target="_blank"
-            href="/assets/pdf/extension/agroIndustria/agroIndustria.pdf"
+            href="https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/extension/agroIndustria/agroIndustria.pdf"
             >Descargar PDF</a
           >
         </div>
@@ -99,7 +99,7 @@
         <div class="vermas-carrera">
           <a
             target="_blank"
-            href="/assets/pdf/extension/ProgramaArticulacion-FCEyA-UNCA-Secundarios.pdf"
+            href="https://eco.unca.edu.ar/assets2/users/paginaeco/pdf/extension/ProgramaArticulacion-FCEyA-UNCA-Secundarios.pdf"
             >Descargar PDF</a
           >
         </div>
